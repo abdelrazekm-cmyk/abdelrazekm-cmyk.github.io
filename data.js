@@ -841,17 +841,6 @@
         "color": "The color grade features a high-contrast, gritty aesthetic with crushed blacks and desaturated shadows to emphasize the gym's industrial atmosphere. Skin tones are carefully balanced to remain natural despite the heavy stylistic color treatment. A slight teal-and-orange split tone is applied to add depth and a modern, cinematic feel.",
         "sound": "The sound design is heavily layered with foley effects, including metallic clanks, heavy breathing, and swooshes that punctuate the visual cuts. The music track is EQ-balanced to allow the SFX to cut through the mix. Kinetic typography is used for branding, featuring smooth motion-tracked entrance animations that align with the gym's visual identity.",
         "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "HD-9Kr6F2vE",
-        "title": "Bella Vita Clinic — Aesthetic & Dental Care Promo | Warm Luxury Color Grade",
-        "sub": "Bella Vita Clinic · Beauty & Smile Transformation Reel · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes rhythmic cutting synced perfectly to the beat of the music. It employs smooth speed ramping to transition between macro food details and wider kitchen shots, maintaining high viewer retention through varied shot sizes and dynamic motion.",
-        "color": "The color grade focuses on warm, appetizing tones with high saturation in the food items. Skin tones are natural and balanced, while the shadows are lifted slightly to provide a clean, modern look. The contrast is punchy, emphasizing the textures of the ingredients.",
-        "sound": "The sound design is a highlight, featuring layered ASMR-style foley effects that bring the kitchen environment to life. The music is well-mixed to allow for vocal clarity and SFX prominence. Kinetic typography is used sparingly but effectively to introduce branding elements.",
-        "badge": "9:16"
       }
     ],
     "lines": [
@@ -859,7 +848,7 @@
       "skin-tone calibration in DaVinci",
       "with macro detail and athletic pacing."
     ],
-    "count": 11
+    "count": 10
   },
   {
     "slug": "food-hospitality",
