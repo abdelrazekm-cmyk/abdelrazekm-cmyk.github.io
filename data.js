@@ -61,17 +61,6 @@
     "videos": [
       {
         "type": "youtube",
-        "id": "9M5kz9xBh_4",
-        "title": "Abdelrazek Mahmoud — Senior Video Editor & Colorist Showreel (Main Cut)",
-        "sub": "Commercial & Brand Ads · 16:9 Widescreen",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
         "id": "CPHEO3rKnnE",
         "title": "STENG Fashion — Store Launch Commercial | High-Energy Fashion Montage",
         "sub": "Commercial & Brand Ads · 16:9 Widescreen",
@@ -149,17 +138,6 @@
       },
       {
         "type": "youtube",
-        "id": "uYM4PK1_FFs",
-        "title": "Retail Grand Opening Promo | High-Energy Rhythmic Cuts & Vibrant Color Grading",
-        "sub": "Commercial & Brand Ads · 16:9 Widescreen",
-        "o": "h",
-        "craft": "The video utilizes rhythmic cutting that syncs perfectly with the beat of the live drumming. It employs a mix of wide establishing shots and tight, detail-oriented close-ups of merchandise to maintain viewer interest. The pacing is fast and energetic, designed to capture the excitement of the store opening.",
-        "color": "The color grading features a clean, high-contrast look that emphasizes the store's premium aesthetic. Skin tones are natural and well-balanced, while the warm wood tones of the interior are enhanced to create a welcoming, luxurious feel. The blacks are deep and rich, providing a sharp contrast against the bright store lighting.",
-        "sound": "The audio is dominated by the live, high-energy drumming performance, which provides a natural and engaging soundtrack. The sound design is clear, with the ambient noise of the event adding to the immersive experience. No complex motion graphics are used, allowing the focus to remain on the store's atmosphere.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
         "id": "Lo6UGZpFjkk",
         "title": "Educational Brand Promo | Kinetic Typography & Vibrant Color Grading",
         "sub": "eng2",
@@ -168,17 +146,6 @@
         "color": "The color grading is bright and saturated, emphasizing a warm, inviting, and clean aesthetic suitable for an educational setting. Skin tones are natural and well-balanced, while the classroom colors are vibrant and punchy to create a cheerful atmosphere. The drone footage of the city is graded with a crisp, high-contrast look to establish a professional, modern context.",
         "sound": "The audio mix features a clear, professional voiceover with a warm, encouraging tone. The background music is an upbeat, acoustic-driven track that complements the educational theme. Kinetic typography is used effectively throughout, with bold, high-contrast text animations that pop against the video background, ensuring the key messages are easily readable on mobile devices.",
         "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "kstd3k8N6to",
-        "title": "Educational Brand Film | Clean Cuts, Natural Color Grading & Rhythmic Pacing",
-        "sub": "عبد العزيز الجربوع",
-        "o": "h",
-        "craft": "The editing utilizes a classic documentary-style narrative structure, alternating between A-roll interview segments and B-roll lifestyle footage. Pacing is steady and professional, with clean match cuts between the classroom and sports scenes. The transition between the student's testimonial and the father's interview is handled with a smooth fade, maintaining a cohesive flow.",
-        "color": "The color grade is bright, clean, and natural, emphasizing a professional academic atmosphere. Skin tones are well-balanced and warm, while the classroom and office environments feature neutral, high-key lighting. The outdoor sports footage maintains vibrant, natural saturation, ensuring a consistent look throughout the piece.",
-        "sound": "The audio mix features clear, crisp vocal tracks for both interviewees, with a balanced background music bed that builds in intensity during the sports montage. Motion graphics are minimal and professional, consisting of clean, legible English subtitles that appear in sync with the spoken Arabic dialogue.",
-        "badge": "16:9"
       },
       {
         "type": "youtube",
@@ -281,28 +248,6 @@
       },
       {
         "type": "youtube",
-        "id": "-6yRJVABeOQ",
-        "title": "Professional Video Editing & Color Grading Showcase — 3",
-        "sub": "3",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "OnasTNPfhVM",
-        "title": "Abdelrazek Mahmoud — Commercial & Grading Showreel (Alternate Cut)",
-        "sub": "Commercial & Brand Ads · 16:9 Widescreen",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
         "id": "gss_liK75xE",
         "title": "High-Impact Kinetic Typography Promo | Dynamic Motion Graphics & Beat Sync",
         "sub": "Commercial & Brand Ads · 9:16 Vertical Reel",
@@ -347,17 +292,6 @@
       },
       {
         "type": "youtube",
-        "id": "4amTzCwhwUk",
-        "title": "Professional Cleaning Service Ad | Fast-Paced Commercial Cuts & Clean Grade",
-        "sub": "Commercial & Brand Ads · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit relies on aggressive, beat-synced cuts that match the intensity of the phonk music. Speed ramping is used during heavy lifts to emphasize the exertion, while match cuts between different exercises maintain a high-retention flow. The pacing is intentionally frantic to keep the viewer engaged throughout the short duration.",
-        "color": "The color grade features a high-contrast, moody aesthetic with crushed blacks and desaturated shadows to emphasize muscle definition. Skin tones are kept natural but slightly cooled to fit the industrial gym atmosphere, with a subtle teal-and-orange split toning applied to the highlights and shadows.",
-        "sound": "The sound design is dominated by a heavy bass-boosted phonk track. Foley effects, such as the clanking of iron plates and heavy breathing, are layered into the mix to add visceral impact. Kinetic typography is used with motion blur and shake effects to match the rhythmic intensity of the music.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
         "id": "j7GQlWTBgg0",
         "title": "Dramatic Narrative Commercial Spot | Cinematic Color Grading & Dialogue Edit",
         "sub": "Commercial & Brand Ads · 9:16 Vertical Reel",
@@ -377,17 +311,6 @@
         "color": "The color grade focuses on a high-contrast, cinematic look. It utilizes a deep, moody base with vibrant purple and magenta highlights to complement the gym's neon lighting. Skin tones are carefully isolated and balanced to remain natural despite the heavy stylized color palette.",
         "sound": "The sound design is built around a high-tempo electronic track, with precise audio-to-video synchronization. The mix ensures the music drives the energy, while the overall production quality maintains a clean, professional aesthetic with minimal but effective motion graphics for the logo reveal.",
         "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "N5UgyPce67o",
-        "title": "Inspiring Student Profile | Documentary Storytelling & Clean Color Grading",
-        "sub": "Commercial & Brand Ads · 16:9 Widescreen",
-        "o": "h",
-        "craft": "The editing follows a classic documentary narrative structure, alternating between observational B-roll and talking head interviews. Pacing is deliberate and steady, allowing the emotional weight of the testimonials to land. Transitions are clean, utilizing simple cross-dissolves and hard cuts to maintain a professional, documentary feel.",
-        "color": "The color grade is naturalistic and clean, focusing on accurate skin-tone reproduction. The gym sequences feature slightly cooler shadows to emphasize the industrial environment, while the classroom and home scenes are warmer and more inviting, creating a clear visual distinction between the boy's different life spheres.",
-        "sound": "The audio mix is well-balanced, ensuring the dialogue is clear and prominent over the background music. The music is an uplifting, inspirational instrumental track that builds emotional resonance. Subtitles are clear, legible, and placed consistently at the bottom of the frame.",
-        "badge": "16:9"
       },
       {
         "type": "youtube",
@@ -420,17 +343,6 @@
         "craft": "The video utilizes fast-paced, rhythmic cutting to maintain viewer retention. Kinetic typography is used extensively to highlight key points, appearing and disappearing in sync with the speaker's cadence. The pacing is energetic, with seamless transitions between the primary talking head and secondary B-roll cutaways.",
         "color": "The color grading features a clean, professional look with natural skin-tone isolation. The overall palette is bright and inviting, with a slight boost in saturation to make the blue suit pop against the soft, out-of-focus green background, creating a high-end commercial aesthetic.",
         "sound": "The audio features clear, crisp vocal recording with no background noise. Motion graphics are used for the text overlays, which feature smooth entrance and exit animations. Subtle sound effects (whooshes) accompany the text transitions, enhancing the overall production value.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "mw1LmwqrhY4",
-        "title": "Campus Student Life Promo Reel | High-Energy Cuts & Natural Color Grading",
-        "sub": "Commercial & Brand Ads · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes rhythmic cutting synced to the beat of the music, employing smooth speed ramping to transition between wide architectural shots and macro detail shots. J-cuts are used to maintain audio continuity, and the pacing is designed to maximize viewer retention through a 'hook-first' approach.",
-        "color": "The color grade features a clean, high-end aesthetic with a focus on neutral whites and deep, rich shadows. Skin tones are not present, so the focus is on color-correcting architectural materials to ensure natural saturation and high dynamic range, utilizing a subtle film print emulation for a premium look.",
-        "sound": "The sound design incorporates layered ambient textures and sharp, clean foley effects for material interactions. Kinetic typography is used sparingly with smooth ease-in/ease-out animations, ensuring the text complements the visual flow without distracting from the interior design.",
         "badge": "9:16"
       }
     ],
@@ -539,28 +451,6 @@
       },
       {
         "type": "youtube",
-        "id": "kyDWqwOhjJg",
-        "title": "Business Residency Strategy Reel | Kinetic Callouts & Studio Color Grading",
-        "sub": "Talking Head & Marketing · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes aggressive rhythmic cutting on the beat to maintain high viewer retention. It features seamless match cuts between disparate locations and sophisticated speed ramping to emphasize motion. J-cuts are used during interview segments to maintain audio continuity while transitioning between visual angles.",
-        "color": "The color grade employs a modern teal and orange contrast to create depth. Skin tones are meticulously isolated and balanced for a natural look despite the stylized environment. Film print emulation is applied to provide a cinematic texture, with subtle halation added to highlights for a premium aesthetic.",
-        "sound": "The sound design is layered with custom foley, including crisp whooshes and rhythmic percussion hits that align with the visual cuts. Vocal tracks are processed with precise EQ for clarity. Motion graphics are integrated using 3D tracking to ensure text elements feel anchored within the scene.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "ot2p9ZE99ck",
-        "title": "Executive Business Advisory Reel | Polished Audio & Natural Color Grade",
-        "sub": "Talking Head & Marketing · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes aggressive rhythmic cutting on the beat to maintain high viewer retention. Speed ramping is employed to emphasize key actions, while seamless masking transitions create a fluid, continuous flow between disparate scenes. J-cuts are used to bridge audio transitions, ensuring a professional, polished feel.",
-        "color": "The color grade features a modern, high-contrast look with deep blacks and vibrant, saturated highlights. Skin tones are meticulously isolated and balanced for a natural yet polished appearance. The overall palette leans into a cinematic teal and orange aesthetic, enhanced by subtle film grain and halation effects applied in DaVinci Resolve.",
-        "sound": "The sound design is highly layered, incorporating custom foley hits and whooshes that align perfectly with the visual transitions. Vocal tracks are processed with precise EQ and compression for maximum clarity. Kinetic typography is integrated using 3D tracking, ensuring text elements feel anchored within the scene's perspective.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
         "id": "B6C3OOMSJq0",
         "title": "Educational Brand Testimonial Reel | Kinetic Typography & Clean Color Grading",
         "sub": "Talking Head & Marketing · 9:16 Vertical Reel",
@@ -568,17 +458,6 @@
         "craft": "The video utilizes a fast-paced, rhythmic cutting style designed for social media retention. The editing is tightly synced to the spoken word, with kinetic text overlays appearing precisely on the beat of the speech. The transition between speakers is seamless, maintaining a consistent visual flow.",
         "color": "The color grade focuses on clean, professional skin tones while maintaining a high-contrast look. The background lighting (blue/purple) is balanced to provide a modern, tech-forward aesthetic that complements the subjects' clothing, creating a vibrant and polished final look.",
         "sound": "The audio features clear, crisp vocal recordings with no background noise. The motion graphics are clean and modern, using bold, readable fonts that animate in and out to emphasize the core message of the testimonial. The background music is upbeat and professional, supporting the promotional tone.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "scBiCcwsTzY",
-        "title": "Executive Mindset & Business Reel | Dynamic Captions & High-Contrast Grade",
-        "sub": "Talking Head & Marketing · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
         "badge": "9:16"
       },
       {
@@ -792,17 +671,6 @@
       },
       {
         "type": "youtube",
-        "id": "5AgchMFAsJA",
-        "title": "Marketing Agency Growth Reel | Dynamic Kinetic Typography & Studio Grade",
-        "sub": "Talking Head & Marketing · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit relies on aggressive rhythmic cutting synced to the beat of the music. Speed ramping is used to emphasize the precision of the barber's movements, transitioning from slow-motion detail shots to fast-paced action. J-cuts are employed to maintain audio continuity between scene transitions, ensuring a seamless flow.",
-        "color": "The color grade features a high-contrast look with crushed blacks and desaturated highlights to give the footage a gritty, masculine aesthetic. Skin tones are carefully isolated and balanced to remain natural despite the heavy contrast, with a slight warm tint added to the highlights to enhance the premium feel of the studio environment.",
-        "sound": "The sound design is highly layered, featuring crisp foley effects (scissors, razors, spray bottles) that are EQ-boosted to cut through the music track. Kinetic typography is used for the brand name and service highlights, utilizing smooth motion blur and tracking to integrate the text into the 3D space of the shots.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
         "id": "bjbdDKt405Y",
         "title": "Business Growth & Strategy Reel | Kinetic Typography & Clean Studio Grade",
         "sub": "Talking Head & Marketing · 9:16 Vertical Reel",
@@ -907,17 +775,6 @@
       },
       {
         "type": "youtube",
-        "id": "MOH-EbcVIH4",
-        "title": "Aveda Clinics — Medical Aesthetics Showcase | Confident Skin Tone Color Grading",
-        "sub": "Medical, Beauty & Fitness · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
         "id": "HgZxfeYf2x8",
         "title": "High-Energy Fitness & Spa Promo | Dynamic Speed Ramping & Cinematic Color Grade",
         "sub": "سيارات - I can see everything So this is (19)",
@@ -925,83 +782,6 @@
         "craft": "The editing is highly rhythmic, with cuts precisely timed to the beat of the music. It employs effective speed ramping to emphasize the intensity of the workouts and smooth transitions between the gym and spa environments. The pacing is designed for high retention, keeping the viewer engaged with constant movement and varied angles.",
         "color": "The color grading features a high-contrast, moody aesthetic. The gym scenes use cool, desaturated tones with sharp highlights, while the spa scenes transition into warmer, more saturated reds and oranges to create a relaxing, luxurious atmosphere. Skin tones are well-balanced throughout.",
         "sound": "The audio mix is clean, with the music track serving as the primary driver. The vocal track is clear and well-integrated. Motion graphics are minimal but effective, featuring the gym's logo as a watermark and at the end of the video, reinforcing brand identity.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "z9OMKcg4LMY",
-        "title": "Aveda Clinics — Allergan Medical Testimonial | Clean Split-Screen & Skin Grade",
-        "sub": "Medical, Beauty & Fitness · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes aggressive rhythmic cutting synchronized perfectly with the beat of the music. It employs speed ramping to transition between slow-motion lifestyle shots and high-speed motion blur segments. Match cuts are used to maintain visual continuity between disparate locations, and the hook retention is optimized through rapid-fire visual changes in the first three seconds.",
-        "color": "The color grade features a modern, high-contrast look with deep blacks and lifted shadows. Skin tones are meticulously isolated and balanced to remain natural despite the stylized teal and orange color palette. Film print emulation is applied with subtle halation and grain to give the digital footage a premium, cinematic texture.",
-        "sound": "The sound design incorporates layered whooshes and bass-heavy risers that emphasize the visual transitions. Vocal EQ is crisp, and the music track is ducked dynamically to allow for punchy SFX. Kinetic typography is used sparingly but effectively to highlight brand messaging, utilizing 3D tracking to integrate text into the environment.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "dlbXuLa-_Ew",
-        "title": "Aveda Clinics — Aesthetic Patient Story | Natural Skin Tone Grading & Edit",
-        "sub": "Medical, Beauty & Fitness · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes aggressive hook retention pacing, cutting precisely on the beat of the music. Speed ramping is used to transition between static shots and high-motion sequences, creating a sense of urgency and professionalism. Match cuts are employed to maintain visual continuity across disparate industry clips.",
-        "color": "The color grade features a high-contrast look with deep blacks and vibrant highlights. Skin tones are meticulously isolated and balanced for a natural yet polished appearance. A subtle teal and orange color palette is applied to enhance the cinematic quality, with film grain added for texture.",
-        "sound": "Sound design is a standout feature, utilizing layered whooshes and risers to accentuate transitions. Vocal tracks are processed with precise EQ for maximum clarity. Kinetic typography is integrated using 3D tracking to ensure text remains locked to the movement of the subjects on screen.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "lZzXyKcaaew",
-        "title": "Aesthetic Dermatology Explainer Reel | Clinical Lighting & Skin Tone Grading",
-        "sub": "Medical, Beauty & Fitness · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "bCb0uN2f4qQ",
-        "title": "Aveda Clinics — Patient Testimonial Reel | Split-Screen Aesthetic Showcase",
-        "sub": "Medical, Beauty & Fitness · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "lDnux4sEpkg",
-        "title": "Aveda Clinics — Allergan Medical Institute | Clinical Aesthetics & Color Grade",
-        "sub": "Medical, Beauty & Fitness · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "fAeADvxpFr8",
-        "title": "Aveda Clinics — Facial Contour & Aesthetics | Clinical Skin Tone Grading",
-        "sub": "Medical, Beauty & Fitness · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "mEljzh15CDQ",
-        "title": "Aveda Clinics — Medical Aesthetics Master Cut | Precision Color & Clean Edit",
-        "sub": "Medical, Beauty & Fitness · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
         "badge": "9:16"
       },
       {
@@ -1061,28 +841,6 @@
       },
       {
         "type": "youtube",
-        "id": "Wr9446FPCsI",
-        "title": "Aveda Clinics — Aesthetic Facial Transformation | Split-Screen & Clinical Grade",
-        "sub": "Medical, Beauty & Fitness · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes aggressive speed ramping to emphasize explosive movements. Cuts are perfectly synced to the beat of the music, creating a high-retention hook. Transitions include seamless match cuts and motion-blur-heavy whip pans that maintain visual momentum throughout the 9:16 frame.",
-        "color": "The grade features a stylized, gritty aesthetic with crushed blacks and desaturated mid-tones to emphasize the industrial gym setting. Skin tones are carefully isolated and balanced to remain natural despite the heavy contrast, with a slight teal-and-orange split toning applied to the highlights and shadows.",
-        "sound": "Sound design includes layered foley effects such as heavy weight slams, boxing glove impacts, and sharp whooshes during transitions. The kinetic typography is 3D-tracked to the movement of the athlete, ensuring the text feels integrated into the physical space of the frame.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "qqVVaNELS3g",
-        "title": "Luxury Aesthetic Clinic Promo | High-End Skin Treatment Reel & Color Grading",
-        "sub": "Reels - Copy of C6",
-        "o": "v",
-        "craft": "The edit utilizes aggressive rhythmic cutting synchronized to the beat of the music. Speed ramping is used to transition between clinical close-ups and practitioner movements, maintaining high viewer retention. J-cuts are employed to bridge audio transitions between different treatment segments.",
-        "color": "The color grade focuses on a clean, clinical aesthetic with high-key lighting. Skin tones are meticulously isolated and balanced to appear natural and radiant. A subtle cool-toned desaturation in the shadows provides a professional, high-end medical contrast.",
-        "sound": "The sound design features layered foley effects that emphasize the precision of the medical tools. Kinetic typography is used for on-screen text, utilizing smooth ease-in/ease-out animations that align with the brand's premium identity.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
         "id": "2H_zwNUJwx8",
         "title": "High-Intensity Fitness Promo | Kinetic Typography & Aggressive Speed Ramping",
         "sub": "Xgym - xgym",
@@ -1113,28 +871,6 @@
         "color": "The color grade focuses on warm, appetizing tones with high saturation in the food items. Skin tones are natural and balanced, while the shadows are lifted slightly to provide a clean, modern look. The contrast is punchy, emphasizing the textures of the ingredients.",
         "sound": "The sound design is a highlight, featuring layered ASMR-style foley effects that bring the kitchen environment to life. The music is well-mixed to allow for vocal clarity and SFX prominence. Kinetic typography is used sparingly but effectively to introduce branding elements.",
         "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "9afH5gC6Mqk",
-        "title": "Aveda Clinics — Medical Aesthetic Review | Split-Screen Editing & Skin Grade",
-        "sub": "Medical, Beauty & Fitness · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes aggressive speed ramping to accentuate the car's movement, paired with rhythmic cuts that align perfectly with the transient peaks of the music. J-cuts are used to bridge audio transitions between engine sounds and the music track, maintaining a high-retention flow.",
-        "color": "The color grade employs a high-contrast, moody aesthetic with deep blacks and crushed shadows. Selective desaturation of the background highlights the car's metallic finish, while subtle teal and orange color science is applied to the highlights and shadows to create a premium, cinematic look.",
-        "sound": "The sound design is highly layered, featuring crisp foley for mechanical sounds and engine revs. Kinetic typography is integrated using 3D tracking to follow the car's motion, ensuring the text feels anchored within the scene rather than floating on top.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "ztxJNPZF400",
-        "title": "Aveda Clinics — Clinical Skincare Testimonial | Clean Split-Screen & Grading",
-        "sub": "Medical, Beauty & Fitness · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The pacing is aggressive and hook-driven, utilizing rapid-fire cuts on the beat to maintain viewer retention. Expert use of speed ramping transitions between static beauty shots and high-speed motion sequences. J-cuts are employed to bridge audio transitions between engine SFX and the music track.",
-        "color": "Professional-grade color work featuring a high-contrast look with crushed blacks and lifted highlights. Skin tones (where visible) are natural, while the metallic surfaces of the car are enhanced with a cool-toned teal and orange contrast, likely achieved through DaVinci Resolve's color space transform and custom power windows.",
-        "sound": "Sound design is a standout, featuring layered foley (engine ignition, gravel crunch, door thuds) that is perfectly synced to the visual cuts. Kinetic typography is used for technical specs, utilizing 3D tracking to lock text to the vehicle's movement in the frame.",
-        "badge": "9:16"
       }
     ],
     "lines": [
@@ -1161,17 +897,6 @@
         "craft": "The editing utilizes rhythmic cuts that align with the upbeat background music. It features quick, engaging transitions between the host's dialogue and close-up shots of the food, maintaining high viewer retention. The pacing is energetic, reflecting the lively atmosphere of the restaurant.",
         "color": "The color grading enhances the warmth and saturation of the food, making the seafood dishes look appetizing and vibrant. Skin tones are balanced and natural, while the restaurant's interior lighting is adjusted to create a welcoming and cozy ambiance.",
         "sound": "The audio features clear vocal tracks from the host and the restaurant owner, with a lively, upbeat background music track that drives the energy of the video. The sound design includes subtle foley effects that emphasize the food service experience.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "jKJVHogPHtk",
-        "title": "High-Energy Food Commercial | Dynamic Macro Cinematography & Vibrant Color Grade",
-        "sub": "2 - بلبن",
-        "o": "v",
-        "craft": "The edit utilizes aggressive rhythmic cutting on the beat of the music to maintain high viewer retention. It features seamless speed ramping during pouring sequences and match cuts between different dessert layers to create a cohesive visual flow.",
-        "color": "The color grade focuses on high-saturation, warm tones to make the food look appetizing. Skin-tone isolation is applied to any human elements, while the dessert colors are pushed to be vibrant and punchy with deep contrast to make textures pop.",
-        "sound": "The sound design includes crisp ASMR-style foley for pouring and crunching sounds, layered with a high-energy music track. Kinetic typography is used for branding, featuring smooth motion blur and tracking to keep the viewer engaged.",
         "badge": "9:16"
       },
       {
@@ -1407,41 +1132,8 @@
       },
       {
         "type": "youtube",
-        "id": "xCPGm-WVkU4",
-        "title": "Cajun Seafood Boil Experience | High-Retention Food Reel & Warm Grading",
-        "sub": "Food & Hospitality · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "6kPs5lSfZSE",
-        "title": "Crispy Shrimp & Sauce Macro Reel | Appetizing Food Color Grading & SFX",
-        "sub": "Food & Hospitality · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
         "id": "E6A3be8fN3Q",
         "title": "Shrimp Party — Seafood Platter Presentation | Dynamic Food Editing & Color",
-        "sub": "Food & Hospitality · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "7EIOSOtHyu4",
-        "title": "Sizzling Seafood Pasta Showcase | Macro Culinary Cinematography & Color Grade",
         "sub": "Food & Hospitality · 9:16 Vertical Reel",
         "o": "v",
         "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
@@ -1464,17 +1156,6 @@
         "type": "youtube",
         "id": "Sh9BX8JBBAY",
         "title": "Crispy Shrimp & Rice Platter Promo | Dynamic Culinary Cuts & Warm Grading",
-        "sub": "Food & Hospitality · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "B46wRMLdDv0",
-        "title": "Shrimp Party — Kitchen to Table Story | High-Energy Restaurant Montage",
         "sub": "Food & Hospitality · 9:16 Vertical Reel",
         "o": "v",
         "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
@@ -1568,28 +1249,6 @@
         "craft": "The edit employs aggressive rhythmic cutting synced to the beat of the music. It utilizes speed ramping to emphasize the sizzle of the grill and the texture of the meat. Match cuts are used during the plating sequence to maintain visual flow, while tight macro shots ensure high viewer retention.",
         "color": "The color grade focuses on warm, appetizing tones. Deep saturation is applied to the reds of the meat and the greens of the garnish to make the food pop. Skin tones of the chef are balanced with a slight warm lift, and a subtle vignette is used to draw focus to the center of the frame.",
         "sound": "The sound design is a highlight, featuring crisp, layered foley of sizzling meat, knife chopping, and plate clinking. The music is a high-tempo track with clear vocal EQ. Kinetic typography is used for the branding, featuring smooth motion-blurred transitions that match the camera movement.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "GOzYE7-giII",
-        "title": "High-Energy Culinary Commercial | Dynamic Speed Ramping & Vibrant Food Grading",
-        "sub": "الباز - كبدة",
-        "o": "v",
-        "craft": "The edit relies on aggressive rhythmic cutting synced to the percussion of the soundtrack. Speed ramping is used during the cooking process to transition from slow-motion sizzle shots to fast-paced chopping sequences, maintaining high viewer retention.",
-        "color": "The color grade emphasizes warm, appetizing tones. Deep reds and browns of the meat are saturated, while the greens of the garnish pop against the dark, moody background of the kitchen. Skin tones of the chef are natural and balanced.",
-        "sound": "Sound design is a highlight, featuring layered ASMR-style foley of sizzling oil and knife strikes. The music is EQ-balanced to allow the voiceover to cut through clearly, while kinetic typography adds a modern, punchy feel to the brand identity.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "ZxI0obvsNvc",
-        "title": "High-Energy Culinary Commercial | Rhythmic Cutting & Vibrant Color Grading",
-        "sub": "الباز - فراخ قطع",
-        "o": "v",
-        "craft": "The edit utilizes aggressive rhythmic cutting on the beat of the music to maintain high viewer retention. Speed ramping is used during the searing and chopping sequences to emphasize texture and motion. Seamless match cuts between preparation stages create a fluid narrative flow.",
-        "color": "The color grade focuses on high-contrast, warm saturation to make the food look appetizing. Deep blacks and punchy highlights are used to create a premium look, with specific attention to color-correcting the chicken to ensure golden-brown tones pop against the background.",
-        "sound": "The sound design is a standout feature, utilizing layered foley effects like sizzling and knife-on-board impacts to ground the visuals. Vocal EQ is crisp and clear, and the kinetic typography is synced to the beat, providing a professional, polished finish.",
         "badge": "9:16"
       },
       {
@@ -1689,17 +1348,6 @@
         "craft": "The edit utilizes aggressive rhythmic cutting on the beat of the music. It employs speed ramping to emphasize the texture of the food and match cuts to transition between ingredients. The pacing is designed for high retention, starting with a strong visual hook.",
         "color": "The color grade focuses on high-saturation, warm tones to make the food look appetizing. Deep blacks and high contrast are used to make the colors pop, with specific attention to skin-tone-like warmth in the golden-brown crust of the fried chicken.",
         "sound": "The sound design is layered with ASMR-style foley (sizzling, crunching, pouring) that is EQ-balanced to sit above the music track. Kinetic typography is used for branding, featuring smooth easing and motion blur to match the camera movement.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "R5nWpc46wFw",
-        "title": "Culinary Brand Showcase | High-Impact Food Cinematography & Vibrant Color Grade",
-        "sub": "Videos - Elbaz Kitchen And Butchery",
-        "o": "v",
-        "craft": "The edit employs fast-paced rhythmic cutting synchronized to the music beat. Speed ramping is used during the searing and slicing sequences to emphasize impact. Smooth match cuts transition between raw ingredients and finished dishes, maintaining high viewer retention through constant visual stimulation.",
-        "color": "The color grade focuses on warm, appetizing tones. Deep reds in the meat are saturated and isolated, while the background is slightly desaturated to make the food pop. High contrast and subtle halation effects are applied to give the footage a premium, cinematic look.",
-        "sound": "The sound design is a standout feature, utilizing layered ASMR-style foley effects (sizzling, knife strikes) that are EQ-balanced to sit perfectly above the music track. Kinetic typography is used for branding, featuring clean, modern sans-serif fonts with subtle motion blur.",
         "badge": "9:16"
       },
       {
@@ -1811,28 +1459,6 @@
         "color": "The color grade features a high-contrast look with deep blacks and vibrant neon highlights. Skin tones are kept natural where visible, but the primary focus is on the metallic reflections of the car. A teal and orange color palette is applied to enhance the night-time urban aesthetic, with subtle halation added to light sources for a filmic quality.",
         "sound": "The sound design is layered with crisp engine foley, tire screeches, and atmospheric city textures that sit well beneath the music. Kinetic typography is used sparingly but effectively to highlight key brand features, utilizing smooth easing and motion blur to match the high-speed visual style.",
         "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "g3lsAuQv-bw",
-        "title": "Traditional Mandi & Culinary Feast Promo | Multi-Cam Restaurant Showcase",
-        "sub": "Food & Hospitality · 16:9 Widescreen",
-        "o": "h",
-        "craft": "The editing follows a standard event coverage structure, utilizing straight cuts between speaker angles and audience reaction shots. Pacing is steady, designed to maintain the flow of the speeches while incorporating key moments like award ceremonies and group photos to keep the viewer engaged.",
-        "color": "The color grading is natural and balanced, focusing on maintaining accurate skin tones and clean whites. The lighting in the venue is bright and even, and the grade enhances the professional atmosphere with a neutral, high-contrast look that makes the blue branding elements pop.",
-        "sound": "The audio is primarily focused on the clarity of the speakers' voices, with a consistent volume level throughout. The background music is mixed at a lower level to ensure the dialogue remains the primary focus. Simple, clean lower-third graphics are used to identify speakers and the event.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "MFOY9KSPiFs",
-        "title": "Shrimp Party — Seafood Feast & Dining Reel | Vibrant Food Grading & Pacing",
-        "sub": "Food & Hospitality · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes fast-paced, rhythmic cutting synced precisely to the beat of the music. It incorporates smooth speed ramping to emphasize key moments of movement and transitions between shots. J-cuts are used to maintain audio continuity across scene changes, ensuring a seamless flow.",
-        "color": "The color grade focuses on enhancing the vibrant party lighting. Skin tones are balanced and preserved despite the heavy use of colored gels. The contrast is pushed to create a punchy, cinematic look, with deep blacks and saturated highlights to emphasize the festive mood.",
-        "sound": "The audio mix prioritizes the music track while maintaining clarity in the ambient crowd reactions. Subtle whoosh SFX are layered on transitions to add impact. The motion graphics are minimal, focusing on clean, modern text overlays that complement the high-energy visual style.",
-        "badge": "9:16"
       }
     ],
     "lines": [
@@ -1918,17 +1544,6 @@
       },
       {
         "type": "youtube",
-        "id": "o-xAuDmFONg",
-        "title": "STEM Racing Documentary | Dynamic 3D Motion & Cinematic Interview Color Grading",
-        "sub": "سيارات - السلام عليكم ورحمة الله وبركاته أنا الحام (110)",
-        "o": "h",
-        "craft": "The editing employs a strong contrast in pacing, using rapid, rhythmic cuts synced to the high-energy racing footage to build excitement, followed by a slower, more deliberate pace during the interview segments. The transition between the racing world and the academic setting is handled with smooth cross-dissolves and match cuts that maintain the viewer's engagement.",
-        "color": "The color grading features a distinct split: the racing sequences utilize a high-contrast, saturated look with vibrant neon accents and cool blue tones, while the interview segments are graded with a warm, soft, and natural aesthetic to emphasize skin tones and a welcoming, professional atmosphere.",
-        "sound": "The sound design is highly effective, layering engine roars, tire screeches, and ambient crowd noise during the racing segments, which then fades into a clean, clear vocal mix for the interviews. Kinetic typography is used sparingly but effectively to introduce the subject and the program, with subtle motion graphics enhancing the branding elements.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
         "id": "b6SAiN_gQZk",
         "title": "Luxury Car Detailing & Wash Promo | Dynamic Cuts & High-End Color Grading",
         "sub": "Automotive Detailing · 9:16 Vertical Reel",
@@ -1940,17 +1555,6 @@
       },
       {
         "type": "youtube",
-        "id": "lAMlzg22RGE",
-        "title": "Mobile Car Detailing Showcase | High-Energy Automotive Cuts & Color Grade",
-        "sub": "Automotive & 3D · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes aggressive rhythmic cutting synchronized perfectly with the beat of the music. It employs advanced speed ramping to emphasize motion, seamless whip-pan transitions, and match cuts to maintain visual continuity across diverse clips. The pacing is designed for high retention, starting with a strong hook and maintaining momentum throughout.",
-        "color": "The color grade features a modern, high-contrast look with deep, crushed blacks and vibrant, saturated highlights. Skin tones are meticulously isolated and balanced to remain natural despite the stylized environment. The grade incorporates subtle film grain and halation to add texture, consistent with a high-end commercial aesthetic.",
-        "sound": "The sound design is highly layered, featuring custom foley elements like whooshes, risers, and mechanical clicks that punctuate the visual cuts. Vocal tracks are processed with precise EQ for clarity. Kinetic typography is integrated into the 3D space of the footage, utilizing motion blur and easing for a premium, polished feel.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
         "id": "nU94ywgkNko",
         "title": "Mercedes-Benz Night Showroom & Interior Showcase | Moody Automotive Grading",
         "sub": "Automotive, Documentary & 3D · 9:16 Vertical Reel",
@@ -1958,17 +1562,6 @@
         "craft": "The edit employs aggressive speed ramping to emphasize the explosive power of the movements. Cuts are perfectly synced to the beat of the music, utilizing match cuts between different exercises to maintain high retention. The pacing is intentionally frantic to mirror the intensity of the workout.",
         "color": "The color grade features a high-contrast look with crushed blacks and desaturated shadows to emphasize muscle definition. Skin tones are balanced with a slight cool-toned tint in the highlights, creating a gritty, cinematic aesthetic typical of premium fitness content.",
         "sound": "Sound design includes layered foley effects of weights hitting the floor and rhythmic breathing, which are mixed to sit prominently in the soundscape. Kinetic typography is used for impact, with motion blur applied to text transitions to match the speed of the visual cuts.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "dpVS67MhmDk",
-        "title": "Cinematic Automotive Showcase | High-Octane Speed Ramps & Moody Color Grading",
-        "sub": "Automotive, Documentary & 3D · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes aggressive speed ramping to emphasize the car's acceleration. Cuts are perfectly synced to the beat of the music, creating a high-energy flow. Match cuts between exterior and interior shots maintain visual continuity, while J-cuts allow the engine audio to bleed into preceding shots for a seamless transition.",
-        "color": "The color grade employs a moody, high-contrast look with deep crushed blacks and desaturated highlights to emphasize the metallic finish of the car. Skin tones (where applicable) are balanced, while the overall palette leans into a cool, steel-blue and charcoal aesthetic with subtle teal shadows.",
-        "sound": "The sound design is highly immersive, featuring layered engine SFX that are EQ-balanced to sit beneath the music. Kinetic typography is used for technical specs, utilizing 3D tracking to lock text to the car's movement, enhancing the premium feel of the brand presentation.",
         "badge": "9:16"
       },
       {
@@ -2022,28 +1615,6 @@
     "videos": [
       {
         "type": "youtube",
-        "id": "1fhlib-En2o",
-        "title": "Corporate Event Highlights | Professional Interview Editing & Color Correction",
-        "sub": "لقاءات وشهادات - أهلاً بكم نعرضة في مؤتمر كلتب البطري (75)",
-        "o": "h",
-        "craft": "The edit utilizes a documentary-style approach, blending B-roll of the event atmosphere with A-roll interview segments. Pacing is steady and conversational, with clean cuts between speakers and event footage. The transition between the exterior establishing shots and the interior interviews is smooth, maintaining a professional flow throughout.",
-        "color": "The color grading is natural and clean, optimized for corporate environments. Skin tones are balanced and consistent across different lighting conditions within the venue. The overall look is bright and professional, with a slight boost in saturation to make the booth branding and event banners pop.",
-        "sound": "The audio features clear, crisp vocal recordings from the interviewees, with minimal background noise interference. The background music is subtle and upbeat, providing a professional corporate tone without overpowering the dialogue. No complex motion graphics are used, keeping the focus on the event content.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "Noz1tpzmzcw",
-        "title": "Political Event Coverage | Clean Audio Mixing & Dynamic Multi-Cam Editing",
-        "sub": "لقاءات وشهادات - احلوا بياني يا ادنو وتشك على الموتيئ (188)",
-        "o": "h",
-        "craft": "The editing focuses on maintaining the flow of the speaker's address. It utilizes multi-camera switching to keep the visual interest high, alternating between close-ups of the speaker and wider shots of the audience and the costumed group. Pacing is dictated by the speaker's cadence, with cuts occurring at natural pauses in the speech.",
-        "color": "The color grading is naturalistic, aimed at maintaining accurate skin tones and clear visibility of the speaker. The lighting is consistent with an indoor event setting, with a slight emphasis on the warm tones of the stage lighting to create a welcoming and professional atmosphere.",
-        "sound": "The audio is primarily the speaker's voice, which is captured clearly through a microphone. There is ambient noise from the crowd, including applause and cheers, which adds to the event's atmosphere. No complex motion graphics are used, as the focus is on the live event footage.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
         "id": "UKB3fRbB0cg",
         "title": "Corporate Event Highlight Reel | Dynamic Rhythmic Editing & Cinematic Color Grade",
         "sub": "فيديو إعلاني لشركة TAIT خلال معرض SEA Expo | مونتاج وتصحيح ألوان - Promotional Video",
@@ -2051,28 +1622,6 @@
         "craft": "The edit utilizes tight, rhythmic cutting on the beat to maintain high energy. It features seamless match cuts between wide establishing shots and detailed close-ups of the booth. Pacing is fast-moving, designed for high audience retention, with smooth transitions that bridge different segments of the expo floor.",
         "color": "The color grade focuses on a clean, professional aesthetic with high contrast. Skin tones are balanced and natural, while the brand colors of the booth are punchy and saturated. A subtle film-like contrast curve was applied to give the footage a premium, cinematic look suitable for corporate marketing.",
         "sound": "The audio mix features a well-balanced soundtrack with ducking applied to ensure any ambient event audio remains secondary to the music. Motion graphics are clean and minimalist, utilizing kinetic typography to introduce key information without distracting from the live-action footage.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "KYLAFxYBqNs",
-        "title": "SLS Expo Executive Interview — Rami Harfouch | Procom Middle East Keynote",
-        "sub": "Corporate & Conferences · 16:9 Widescreen",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "Av0Wq2rcBSA",
-        "title": "SEA Expo Executive Interview — Menna El Zeiny | Corporate Audio & Color Grade",
-        "sub": "Corporate & Conferences · 16:9 Widescreen",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
         "badge": "16:9"
       },
       {
@@ -2101,105 +1650,6 @@
         "type": "youtube",
         "id": "Kd2-Fbni0BU",
         "title": "Ibdaa Students — Airport Reception Film | Documentary Event Pacing & Color",
-        "sub": "Corporate & Conferences · 16:9 Widescreen",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "wTWOvOcCIyw",
-        "title": "SLS Expo Executive Talk — Abdulmomen Ghandour | Multi-Cam Summit Interview",
-        "sub": "Corporate & Conferences · 16:9 Widescreen",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "pHRHNGi_N4g",
-        "title": "SLS Expo Keynote Interview — Keichou Lee | Unilumin Corporate Showcase",
-        "sub": "Corporate & Conferences · 16:9 Widescreen",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "c1ACH7SO8i8",
-        "title": "SLS Expo Executive Interview — Khalid Alqahtani | IPS Corporate Summit Film",
-        "sub": "Corporate & Conferences · 16:9 Widescreen",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "OONRjVqjQI8",
-        "title": "SLS Expo Executive Talk — Zuhair Sarhani | aDawliah Corporate Interview",
-        "sub": "Corporate & Conferences · 16:9 Widescreen",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "snPCn2SzlFs",
-        "title": "SLS Expo Executive Talk — Elie Battah | ROBE Lighting Corporate Showcase",
-        "sub": "Corporate & Conferences · 16:9 Widescreen",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "keYUb6u4YOE",
-        "title": "SLS Expo Executive Talk — Khalid Alghamdi | Delta Waves Corporate Interview",
-        "sub": "Corporate & Conferences · 16:9 Widescreen",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "zL-a36lkAHc",
-        "title": "SLS Expo Executive Talk — Bassam Bahous | Halwani Audio Visual Interview",
-        "sub": "Corporate & Conferences · 16:9 Widescreen",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "ZIeFWKvoFV4",
-        "title": "SEA Expo Executive Talk — Amin Rashmani | TAIT Corporate Summit Interview",
-        "sub": "Corporate & Conferences · 16:9 Widescreen",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "1xe1kRqRcB8",
-        "title": "Emaar Al-Diyafa — Executive Gala & Signing Film | Corporate Documentary Edit",
         "sub": "Corporate & Conferences · 16:9 Widescreen",
         "o": "h",
         "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
@@ -2238,17 +1688,6 @@
         "craft": "The editing follows a standard documentary-style interview structure. It utilizes clean, direct cuts between speakers, maintaining a steady and respectful pace suitable for a corporate/educational event. The flow is logical, transitioning from the event's purpose to individual testimonials, ensuring clear communication of the narrative.",
         "color": "The color grading is natural and balanced, prioritizing accurate skin tones for the interview subjects. The airport environment is bright and well-lit, with a clean, neutral color palette that enhances the professional atmosphere. The contrast is subtle, ensuring the subjects stand out against the background without appearing overly processed.",
         "sound": "The audio features clear, crisp vocal recording for all interviewees, with well-balanced background music that supports the inspirational tone of the event. The English subtitles are clean, legible, and well-timed, providing accessibility without distracting from the visual content.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "6nckSN17A0s",
-        "title": "Corporate Event Highlight Reel | Clean Cuts & Professional Color Grading",
-        "sub": "حفلات وتغطيات - الحمد لله نحتفل اليوم بتخرج دوفع جديدة (130)",
-        "o": "h",
-        "craft": "The editing follows a standard corporate event structure, utilizing rhythmic cuts between interview segments and B-roll of the ceremony. The pacing is steady and professional, ensuring the narrative of the graduation flows logically. J-cuts are used to maintain audio continuity during transitions between speakers and event footage.",
-        "color": "The color grading is natural and bright, emphasizing clean skin tones and a professional, inviting atmosphere. The white balance is well-maintained across different lighting conditions, with a slight boost in saturation to make the event branding and floral arrangements pop.",
-        "sound": "The audio mix is well-balanced, with clear vocal EQ for the interviews and a consistent background music bed. Motion graphics are used sparingly but effectively to introduce speakers and provide context, with clean, legible typography that aligns with the corporate branding.",
         "badge": "16:9"
       },
       {
@@ -2335,17 +1774,6 @@
     "videos": [
       {
         "type": "youtube",
-        "id": "fQTNsEKJ96A",
-        "title": "Cinematic Wedding Highlight Reel | Elegant Color Grading & Rhythmic Editing",
-        "sub": "سيارات - دي أجمل حاجة في الدنيا تشوفها العين (119)",
-        "o": "h",
-        "craft": "The editing follows a clear narrative arc, starting with slow, romantic, and atmospheric shots of the couple, then transitioning into high-energy, fast-paced cuts during the reception. The editor uses rhythmic cutting to match the beat of the Arabic music, incorporating smooth cross-dissolves and match cuts to maintain visual flow.",
-        "color": "The color grading emphasizes a warm, golden-hour aesthetic for the outdoor scenes, enhancing skin tones and sunset hues. The reception footage is balanced with a clean, vibrant look, ensuring the event lighting and decor colors pop while maintaining natural skin tones.",
-        "sound": "The audio is dominated by the wedding track, which is mixed for clarity. The 'STREAK FILM' logo is consistently placed in the lower-left corner. The motion is natural, with smooth camera movements and steady handheld shots during the reception dance sequences.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
         "id": "Q6xOIoUwQho",
         "title": "Tamer Hosny — Live Stadium Concert Package | Multi-Cam Sync & Crowd Audio Mix",
         "sub": "Events, Weddings & Concerts · 16:9 Widescreen",
@@ -2353,28 +1781,6 @@
         "craft": "The edit utilizes rhythmic cutting synchronized with the music's beat, creating a high-energy flow. It employs match cuts between the stage performance and the architectural screen visuals, effectively bridging the gap between the entertainment and the brand message. Pacing is fast during the performance segments and slows down slightly for audience reaction shots, maintaining viewer engagement throughout.",
         "color": "The color grade features a high-contrast look with deep blacks and vibrant, saturated highlights. Skin tones are well-preserved despite the complex stage lighting. The palette leans into a cinematic teal and orange aesthetic, with deep blues in the shadows and warm, punchy oranges/reds in the stage lighting and branding elements, providing a polished, premium feel.",
         "sound": "The audio mix balances the live music performance with ambient crowd noise, ensuring the music remains the driving force. The sound design includes subtle, layered risers and whooshes during transitions to enhance the impact of the cuts. Motion graphics are integrated via the large LED screens, which are seamlessly tracked and color-corrected to match the overall grade of the video.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "Mgu8zxUPAIM",
-        "title": "Live Concert Recap | Dynamic Rhythmic Cutting & Vibrant Event Color Grading",
-        "sub": "حفله الدلتا مصطفى حجاج 17-9",
-        "o": "h",
-        "craft": "The editing is highly rhythmic, with cuts synchronized to the beat of the music. It utilizes a mix of wide aerial shots for context and tight, energetic close-ups of the crowd and performer to maintain high engagement. The pacing is fast, using quick cuts and occasional speed ramps to emphasize the energy of the performance.",
-        "color": "The color grading features a high-contrast, vibrant look suitable for a night concert. It emphasizes the stage lighting colors (blues, reds, and yellows) while maintaining natural skin tones for the crowd and performer. The blacks are crushed to provide a clean, professional look against the bright stage lights.",
-        "sound": "The audio is a clean mix of the live performance track and ambient crowd noise, ensuring the music remains the focus. Motion graphics are minimal, primarily used for the school's branding and logo at the end, which is cleanly integrated with a simple fade-in.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "K1uVcpGSgYI",
-        "title": "Cinematic Wedding Highlight Reel | Dynamic Rhythmic Editing & Warm Color Grade",
-        "sub": "WEDDING 4 FINSH",
-        "o": "h",
-        "craft": "The editing is highly rhythmic, with cuts synchronized precisely to the beat of the music. It utilizes a mix of slow-motion for emotional, cinematic moments and fast-paced, energetic cuts for the dance floor sequences. Speed ramping is used effectively to transition between these two modes, maintaining high viewer retention throughout the video.",
-        "color": "The color grading features a warm, inviting palette that enhances the celebratory mood. Skin tones are well-balanced and natural, while the overall saturation is boosted to make the wedding attire and decor pop. The contrast is adjusted to provide depth, particularly in the outdoor shots, while maintaining detail in the shadows during the indoor reception scenes.",
-        "sound": "The audio is dominated by a high-energy Arabic track, which is mixed for clarity and impact. The music is consistent throughout, providing a cohesive narrative flow. There are no complex motion graphics, but the video uses simple, clean transitions that do not distract from the main content.",
         "badge": "16:9"
       },
       {
@@ -2390,52 +1796,8 @@
       },
       {
         "type": "youtube",
-        "id": "1htEN-xO3Io",
-        "title": "Delta Festival — Stage & Graduation Highlights | Multi-Cam Event Film",
-        "sub": "Events, Weddings & Concerts · 16:9 Widescreen",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "fXfgCM0S7BE",
-        "title": "University Graduation Ceremony Highlights | Multi-Cam Event Edit & Color Grade",
-        "sub": "Events, Weddings & Concerts · 16:9 Widescreen",
-        "o": "h",
-        "craft": "The edit utilizes aggressive speed ramping and match cuts to maintain a high-retention flow. Cuts are strictly synced to the transient peaks of the music, creating a visceral experience. Transitions are seamless, utilizing motion blur and directional wipes to maintain continuity between disparate lifestyle shots.",
-        "color": "The color grade features a high-contrast look with deep, crushed blacks and vibrant, saturated highlights. Skin tones are meticulously isolated and balanced to remain natural despite the stylized teal and orange color science applied to the environment. Film grain and subtle halation are added to provide a premium, cinematic texture.",
-        "sound": "The sound design is built around a layered percussion track with custom whooshes and impact SFX that emphasize the visual cuts. Kinetic typography is integrated into the 3D space of the shots, utilizing tracking to ensure text elements feel anchored to the environment. Vocal EQ is not applicable as there is no dialogue.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
         "id": "Db9w1ryVrwI",
         "title": "Outdoor Wedding Portrait Reel | Soft Romantic Color Grading & Emotional Cuts",
-        "sub": "Events, Weddings & Concerts · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "8BgGpnOZgCQ",
-        "title": "Birthday Celebration Highlight Reel | Vibrant Event Color Grading & Beat Sync",
-        "sub": "Events, Weddings & Concerts · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "6wNqkVH4BFc",
-        "title": "Golden Hour Engagement Highlight Reel | Warm Sunset Color Grading & Pacing",
         "sub": "Events, Weddings & Concerts · 9:16 Vertical Reel",
         "o": "v",
         "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
@@ -2533,28 +1895,6 @@
       },
       {
         "type": "youtube",
-        "id": "7iBN7oq1Yh8",
-        "title": "Luxury Wedding Stage & Celebration Film | Cinematic Event Lighting & Color",
-        "sub": "Events, Weddings & Concerts · 16:9 Widescreen",
-        "o": "h",
-        "craft": "The edit utilizes rhythmic cutting synced perfectly to the beat of the music. Speed ramping is employed during action shots to emphasize the intensity of the cooking process, while J-cuts maintain a seamless flow between different kitchen stations.",
-        "color": "The color grade features high-contrast, warm saturation to make food colors pop. Skin tones are carefully isolated and balanced, while the shadows are lifted slightly to provide a clean, modern aesthetic with a subtle film-like grain.",
-        "sound": "The sound design is a standout, featuring layered ASMR-style foley effects that are EQ-balanced for clarity. Kinetic typography is used for on-screen text, utilizing smooth ease-in/ease-out animations that match the movement of the camera.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "z-ovshYb2tE",
-        "title": "Birthday Party & Event Highlight Reel | Rhythmic Cutting & Vibrant Color Grade",
-        "sub": "Events, Weddings & Concerts · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes aggressive speed ramping to emphasize acceleration and braking. Cuts are perfectly synced to the beat of the music, utilizing match cuts between exterior movement and interior cockpit details to maintain high viewer retention.",
-        "color": "The color grade employs a high-contrast look with deep crushed blacks and a sophisticated teal-and-orange palette. Skin tones (where present) are balanced, while the metallic surfaces of the vehicle benefit from sharp highlights and subtle halation to enhance the premium aesthetic.",
-        "sound": "Sound design is layered with realistic engine foley, wind noise, and rhythmic bass hits. Kinetic typography is tracked into the scene using 3D motion tracking, ensuring the text feels integrated into the environment rather than overlaid.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
         "id": "U5reB6nSsgE",
         "title": "School Graduation Event Highlight | Dynamic Rhythmic Editing & Color Grading",
         "sub": "Events, Weddings & Concerts · 16:9 Widescreen",
@@ -2574,17 +1914,6 @@
         "color": "The color grade emphasizes clean, natural skin tones while boosting the saturation of the venue's ambient lighting. A subtle warm glow is applied to highlights to create a romantic, high-end wedding aesthetic, consistent with professional film-look standards.",
         "sound": "The audio mix balances a high-tempo backing track with crisp, isolated foley effects like camera shutters and equipment clicks. The sound design adds a layer of professional polish, making the behind-the-scenes process feel immersive and engaging.",
         "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "MxB1dly8ydg",
-        "title": "Cinematic Wedding Highlight Reel | Rhythmic Editing & Warm Color Grading",
-        "sub": "Events, Weddings & Concerts · 16:9 Widescreen",
-        "o": "h",
-        "craft": "The edit utilizes a clear narrative structure, starting with a slow, emotional build-up that transitions into a high-energy, fast-paced reception sequence. Rhythmic cutting on the beat is employed throughout the dance sequences to maintain viewer engagement. The use of match cuts and smooth transitions between the portrait session and the reception adds a professional, cohesive flow.",
-        "color": "The color grading features a distinct contrast between the two segments. The portrait session uses a warm, golden-hour aesthetic with soft skin tones and high saturation to evoke romance. The reception segment shifts to a more vibrant, high-contrast look, with punchy highlights and deep shadows to emphasize the festive atmosphere and stage lighting.",
-        "sound": "The audio mix is well-balanced, with the music tracks serving as the primary driver of the edit. Vocal EQ is crisp, and the transition between the slow ballad and the upbeat pop track is seamless. Motion graphics are minimal but effective, with clean, elegant typography used for the couple's names and the production company's logo.",
-        "badge": "16:9"
       },
       {
         "type": "youtube",
@@ -2670,17 +1999,6 @@
       },
       {
         "type": "youtube",
-        "id": "QGcKvn35n_I",
-        "title": "The 12 Gate — Investing in Dubai Real Estate | Kinetic Data Callouts & Grade",
-        "sub": "Real Estate & Architecture · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
         "id": "dFHhUmHFdao",
         "title": "The 12 Gate — What Is a Real-Estate Bubble? | Animated Overlays & Studio Grade",
         "sub": "Real Estate & Architecture · 9:16 Vertical Reel",
@@ -2692,52 +2010,8 @@
       },
       {
         "type": "youtube",
-        "id": "8aC-Hwl74vo",
-        "title": "The 12 Gate — How to Buy a Property in Dubai | Kinetic Typography & Color Grade",
-        "sub": "Real Estate & Architecture · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "6to42o9tVzY",
-        "title": "The 12 Gate — Prime Real Estate Opportunity | Kinetic Typography & Studio Grade",
-        "sub": "Real Estate & Architecture · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The editing utilizes aggressive rhythmic cutting synchronized perfectly with the beat of the music. Speed ramping is employed to transition between static shots and high-motion sequences, creating a sense of urgency and premium quality. J-cuts are used to maintain audio continuity across scene transitions.",
-        "color": "The color grade features a high-contrast look with deep blacks and vibrant highlights. Skin tones are carefully isolated and balanced to appear natural despite the stylized, saturated environment. A subtle film grain and halation effect are applied to give the digital footage a cinematic, organic texture.",
-        "sound": "The sound design is built around a punchy, syncopated music track. Layered SFX, including whooshes, risers, and subtle foley hits, emphasize the impact of the cuts. Kinetic typography is tracked into the scenes with motion blur, ensuring the text feels integrated into the 3D space of the footage.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "5bc-1CNvdh0",
-        "title": "The 12 Gate — VIP Property Investment Invite | Dynamic Callouts & Clean Grade",
-        "sub": "Real Estate & Architecture · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes aggressive rhythmic cutting on the beat to maintain high viewer retention. It features seamless match cuts between disparate scenes, sophisticated speed ramping to emphasize motion, and precise J-cuts to bridge audio transitions between segments.",
-        "color": "The color grade employs a modern commercial look with high contrast and deep blacks. Skin tones are meticulously isolated and balanced for natural warmth, while highlights are controlled with a subtle halation effect. The palette is vibrant, utilizing teal and orange color theory to create depth and professional polish.",
-        "sound": "The sound design is layered with custom foley, including sharp whooshes and bass-heavy impact hits that punctuate the cuts. Vocal tracks are processed with high-pass filtering and compression for broadcast-level clarity. Kinetic typography is integrated using 3D tracking to ensure text remains locked to the movement of the frame.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
         "id": "AsNYhLCRU74",
         "title": "The 12 Gate — Dubai Market Summary Reel | Aerial B-Roll & Kinetic Callouts",
-        "sub": "Real Estate & Architecture · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "MMdDAMwvfoY",
-        "title": "The 12 Gate — Property Advisory Series Ep. 5 | Dynamic B-Roll & Kinetic Type",
         "sub": "Real Estate & Architecture · 9:16 Vertical Reel",
         "o": "v",
         "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
@@ -2758,30 +2032,8 @@
       },
       {
         "type": "youtube",
-        "id": "_xuxTfLehpc",
-        "title": "The 12 Gate — Dubai Skyscraper & Advisory Cut | Kinetic Overlays & Studio Grade",
-        "sub": "Real Estate & Architecture · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
         "id": "GPiCqcXmU_8",
         "title": "The 12 Gate — Real Estate Advisory Ep. 2 | Animated Callouts & Clean Grade",
-        "sub": "Real Estate & Architecture · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "sO-svF7AI9w",
-        "title": "The 12 Gate — 5 Tips Before Buying Property | Kinetic Typography & Clean Grade",
         "sub": "Real Estate & Architecture · 9:16 Vertical Reel",
         "o": "v",
         "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
@@ -2853,17 +2105,6 @@
         "craft": "The edit employs a classic narrative arc, starting with slow, deliberate pacing during the preparation phase and accelerating into fast-paced, rhythmic cuts during the reception. Match cuts are used effectively to transition between locations, and speed ramping is applied to emphasize key emotional gestures.",
         "color": "The color grade features a warm, romantic aesthetic with soft highlights and deep, rich shadows. Skin tones are meticulously balanced and isolated to maintain a natural, healthy glow. A subtle film grain and slight halation are added to provide a timeless, cinematic texture.",
         "sound": "The sound design integrates a melodic, emotive soundtrack with crisp foley work, including the rustle of the wedding dress and ambient crowd cheers. Vocal EQ is clear and present during vows, and the music is ducked appropriately to ensure audio clarity.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "mItcidWLMBg",
-        "title": "The 12 Gate — Dubai Real Estate Advisory Cut | Kinetic Typography & Studio Grade",
-        "sub": "Real Estate & Architecture · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes a slow, deliberate pacing that emphasizes the grandeur of the architecture. Transitions are seamless, relying on match cuts and smooth whip-pans to maintain visual flow. The pacing is perfectly synced to the ambient musical score, creating a meditative and premium viewing experience.",
-        "color": "The color grade features a sophisticated, neutral palette with high-end contrast. Skin tones (where applicable) are natural, while the architectural elements benefit from deep shadow recovery and clean highlight roll-offs. A subtle film-print emulation look is applied to give the interiors a cinematic, high-budget aesthetic.",
-        "sound": "The sound design focuses on immersive atmosphere, using layered ambient textures to ground the viewer in the space. Motion graphics are minimal and elegant, utilizing clean sans-serif typography that tracks smoothly with the camera movement, ensuring a professional and unobtrusive presentation.",
         "badge": "9:16"
       }
     ],
