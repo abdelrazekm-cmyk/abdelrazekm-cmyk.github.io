@@ -1727,25 +1727,14 @@
     "count": 12
   },
   {
-    "slug": "events-weddings-concerts",
-    "title": "Cinematic Weddings, Live Concerts & Festival Nights",
-    "client": "Tamer Hosny · Mostafa Hagag · Delta Festival · Weddings",
-    "tag": "Weddings & Live",
-    "cover": "assets/images/categories/events-weddings-concerts.jpg",
-    "metric": "20 Highlight Films",
-    "description": "Multi-cam concert cuts, crowd audio balancing & speed ramps plus cinematic wedding highlight films.",
+    "slug": "cinematic-weddings",
+    "title": "Cinematic Weddings",
+    "client": "Luxury Bridal & Groom Films · Saudi Ardha · Garden Weddings",
+    "tag": "Weddings",
+    "cover": "assets/images/categories/cinematic-weddings.jpg",
+    "metric": "6 Wedding Films",
+    "description": "Emotional wedding highlight films, bridal portraits, natural skin-tone color grading & romantic storytelling.",
     "videos": [
-      {
-        "type": "youtube",
-        "id": "Q6xOIoUwQho",
-        "title": "Tamer Hosny — Live Concert & Gala Event Package | Multi-Cam Sync & Crowd Mix",
-        "sub": "Live Concert Coverage · Stage Lighting & Rhythmic Cut · 16:9 Horizontal Film",
-        "o": "h",
-        "craft": "The edit utilizes rhythmic cutting synchronized with the music's beat, creating a high-energy flow. It employs match cuts between the stage performance and the architectural screen visuals, effectively bridging the gap between the entertainment and the brand message. Pacing is fast during the performance segments and slows down slightly for audience reaction shots, maintaining viewer engagement throughout.",
-        "color": "The color grade features a high-contrast look with deep blacks and vibrant, saturated highlights. Skin tones are well-preserved despite the complex stage lighting. The palette leans into a cinematic teal and orange aesthetic, with deep blues in the shadows and warm, punchy oranges/reds in the stage lighting and branding elements, providing a polished, premium feel.",
-        "sound": "The audio mix balances the live music performance with ambient crowd noise, ensuring the music remains the driving force. The sound design includes subtle, layered risers and whooshes during transitions to enhance the impact of the cuts. Motion graphics are integrated via the large LED screens, which are seamlessly tracked and color-corrected to match the overall grade of the video.",
-        "badge": "16:9"
-      },
       {
         "type": "youtube",
         "id": "gpAgSAbpLrU",
@@ -1767,6 +1756,78 @@
         "color": "Custom film grade and precise skin-tone color balance.",
         "sound": "Clean audio mastering and dynamic motion graphics.",
         "badge": "9:16"
+      },
+      {
+        "type": "youtube",
+        "id": "kaWFvpXTxmk",
+        "title": "Outdoor Garden Wedding Highlight Film | Romantic Storytelling & Warm Grade",
+        "sub": "Cinematic Wedding Film · First Look & Portrait Session · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
+        "color": "Custom film grade and precise skin-tone color balance.",
+        "sound": "Clean audio mastering and dynamic motion graphics.",
+        "badge": "16:9"
+      },
+      {
+        "type": "youtube",
+        "id": "f4kGchI_D0Y",
+        "title": "Waterfront Wedding Highlight Film | Soft Natural Skin Tones & Emotional Pacing",
+        "sub": "Cinematic Wedding Film · Golden Hour Portraits & Color · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
+        "color": "Custom film grade and precise skin-tone color balance.",
+        "sound": "Clean audio mastering and dynamic motion graphics.",
+        "badge": "16:9"
+      },
+      {
+        "type": "youtube",
+        "id": "CRAhNfUdUuo",
+        "title": "Cinematic Wedding Behind-the-Scenes Reel | Dynamic Pacing & Warm Grading",
+        "sub": "Wedding BTS Reel · Candid Moments & Rhythmic Cuts · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "The edit utilizes high-energy rhythmic cuts that align perfectly with the music's beat. It features smooth speed ramping during transition sequences and quick, punchy cuts between setup shots and final captured moments to maintain high viewer retention.",
+        "color": "The color grade emphasizes clean, natural skin tones while boosting the saturation of the venue's ambient lighting. A subtle warm glow is applied to highlights to create a romantic, high-end wedding aesthetic, consistent with professional film-look standards.",
+        "sound": "The audio mix balances a high-tempo backing track with crisp, isolated foley effects like camera shutters and equipment clicks. The sound design adds a layer of professional polish, making the behind-the-scenes process feel immersive and engaging.",
+        "badge": "9:16"
+      },
+      {
+        "type": "youtube",
+        "id": "-eU7K6_Pvgc",
+        "title": "Traditional Saudi Wedding & Ardha Highlight Film | Elegant Color & Pacing",
+        "sub": "Saudi Wedding Coverage · Cultural Celebration & Multi-Cam · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "The editing follows a classic narrative structure, transitioning from the intimate preparation phase to the grand celebration. Pacing is deliberate and slow during the morning prep shots, utilizing smooth cross-dissolves and match cuts to establish a luxurious tone. As the video transitions to the wedding hall, the cutting rhythm increases, syncing with the beat of the traditional music to capture the energy of the celebration.",
+        "color": "The color grade features a clean, professional look with natural skin tones. The morning shots have a soft, bright, and airy aesthetic, while the evening venue shots utilize a warmer, more saturated palette to emphasize the golden lighting and festive atmosphere of the wedding hall.",
+        "sound": "The audio mix is well-balanced, with the Arabic voiceover clearly layered over the background music. The traditional music is the driving force of the second half of the video, with dynamic volume adjustments to highlight key moments of the celebration. The video concludes with a professional logo animation for the photographer.",
+        "badge": "16:9"
+      }
+    ],
+    "lines": [
+      "Emotional wedding highlight films,",
+      "bridal & groom portrait cinematography",
+      "with soft natural skin-tone grading."
+    ],
+    "count": 6
+  },
+  {
+    "slug": "events-weddings-concerts",
+    "title": "Live Concerts & Festival Nights",
+    "client": "Tamer Hosny · Mostafa Hagag · Delta Festival · Live Galas",
+    "tag": "Festival Nights",
+    "cover": "assets/images/categories/events-weddings-concerts.jpg",
+    "metric": "9 Festival Films",
+    "description": "Multi-cam concert cuts, university festival recaps, crowd audio balancing & high-energy speed ramps.",
+    "videos": [
+      {
+        "type": "youtube",
+        "id": "Q6xOIoUwQho",
+        "title": "Tamer Hosny — Live Concert & Gala Event Package | Multi-Cam Sync & Crowd Mix",
+        "sub": "Live Concert Coverage · Stage Lighting & Rhythmic Cut · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "The edit utilizes rhythmic cutting synchronized with the music's beat, creating a high-energy flow. It employs match cuts between the stage performance and the architectural screen visuals, effectively bridging the gap between the entertainment and the brand message. Pacing is fast during the performance segments and slows down slightly for audience reaction shots, maintaining viewer engagement throughout.",
+        "color": "The color grade features a high-contrast look with deep blacks and vibrant, saturated highlights. Skin tones are well-preserved despite the complex stage lighting. The palette leans into a cinematic teal and orange aesthetic, with deep blues in the shadows and warm, punchy oranges/reds in the stage lighting and branding elements, providing a polished, premium feel.",
+        "sound": "The audio mix balances the live music performance with ambient crowd noise, ensuring the music remains the driving force. The sound design includes subtle, layered risers and whooshes during transitions to enhance the impact of the cuts. Motion graphics are integrated via the large LED screens, which are seamlessly tracked and color-corrected to match the overall grade of the video.",
+        "badge": "16:9"
       },
       {
         "type": "youtube",
@@ -1814,28 +1875,6 @@
       },
       {
         "type": "youtube",
-        "id": "kaWFvpXTxmk",
-        "title": "Outdoor Garden Wedding Highlight Film | Romantic Storytelling & Warm Grade",
-        "sub": "Cinematic Wedding Film · First Look & Portrait Session · 16:9 Horizontal Film",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "f4kGchI_D0Y",
-        "title": "Waterfront Wedding Highlight Film | Soft Natural Skin Tones & Emotional Pacing",
-        "sub": "Cinematic Wedding Film · Golden Hour Portraits & Color · 16:9 Horizontal Film",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
         "id": "cOljPQrZaGo",
         "title": "Outdoor Campus Fun Day & Color Festival Recap | High-Energy Rhythmic Edit",
         "sub": "Student Festival Film · Dynamic Crowd Cuts & Daylight Grade · 16:9 Horizontal Film",
@@ -1869,31 +1908,9 @@
       },
       {
         "type": "youtube",
-        "id": "CRAhNfUdUuo",
-        "title": "Cinematic Wedding Behind-the-Scenes Reel | Dynamic Pacing & Warm Grading",
-        "sub": "Wedding BTS Reel · Candid Moments & Rhythmic Cuts · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes high-energy rhythmic cuts that align perfectly with the music's beat. It features smooth speed ramping during transition sequences and quick, punchy cuts between setup shots and final captured moments to maintain high viewer retention.",
-        "color": "The color grade emphasizes clean, natural skin tones while boosting the saturation of the venue's ambient lighting. A subtle warm glow is applied to highlights to create a romantic, high-end wedding aesthetic, consistent with professional film-look standards.",
-        "sound": "The audio mix balances a high-tempo backing track with crisp, isolated foley effects like camera shutters and equipment clicks. The sound design adds a layer of professional polish, making the behind-the-scenes process feel immersive and engaging.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "-eU7K6_Pvgc",
-        "title": "Traditional Saudi Wedding & Ardha Highlight Film | Elegant Color & Pacing",
-        "sub": "Saudi Wedding Coverage · Cultural Celebration & Multi-Cam · 16:9 Horizontal Film",
-        "o": "h",
-        "craft": "The editing follows a classic narrative structure, transitioning from the intimate preparation phase to the grand celebration. Pacing is deliberate and slow during the morning prep shots, utilizing smooth cross-dissolves and match cuts to establish a luxurious tone. As the video transitions to the wedding hall, the cutting rhythm increases, syncing with the beat of the traditional music to capture the energy of the celebration.",
-        "color": "The color grade features a clean, professional look with natural skin tones. The morning shots have a soft, bright, and airy aesthetic, while the evening venue shots utilize a warmer, more saturated palette to emphasize the golden lighting and festive atmosphere of the wedding hall.",
-        "sound": "The audio mix is well-balanced, with the Arabic voiceover clearly layered over the background music. The traditional music is the driving force of the second half of the video, with dynamic volume adjustments to highlight key moments of the celebration. The video concludes with a professional logo animation for the photographer.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
         "id": "wbWJ93mq67s",
-        "title": "Luxury Wedding Stage & Live Performance Film | Multi-Cam Event Editing",
-        "sub": "Luxury Wedding Gala · Stage Lighting & Cinematic Grading · 16:9 Horizontal Film",
+        "title": "The Twelve Gate — Live Gala & Stage Performance Film | Multi-Cam Event Edit",
+        "sub": "The Twelve Gate Gala · Stage Lighting & Cinematic Grading · 16:9 Horizontal Film",
         "o": "h",
         "craft": "The edit utilizes a slow-burn, rhythmic pacing that aligns perfectly with the beat of the music. Transitions are seamless, using match cuts between architectural details and wide shots to maintain spatial continuity. Speed ramping is applied to the camera glides to emphasize the scale of the rooms.",
         "color": "The color grade focuses on a clean, high-contrast look with a slight desaturation of warm tones to emphasize the modern, minimalist aesthetic. Skin tones (where applicable) are natural, while the marble and metallic textures are sharpened with localized contrast adjustments in DaVinci Resolve.",
@@ -1904,9 +1921,9 @@
     "lines": [
       "Multi-cam concert cuts,",
       "crowd audio balancing & speed ramps",
-      "plus cinematic wedding highlight films."
+      "for live concerts and festival nights."
     ],
-    "count": 15
+    "count": 9
   },
   {
     "slug": "real-estate-architecture",
