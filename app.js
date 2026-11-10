@@ -359,6 +359,8 @@
       obs.unobserve(entry.target);
       $$('[data-count]', entry.target).forEach((el) => {
         const target = Number(el.dataset.count);
+        const startVal = Number(el.dataset.from || 0);
+        const prefix = el.dataset.prefix || '';
         const suffix = el.dataset.suffix || '';
         if (reducedMotion) return;
         const t0 = performance.now();
@@ -366,7 +368,7 @@
         const step = (now) => {
           const k = clamp((now - t0) / dur, 0, 1);
           const eased = 1 - Math.pow(1 - k, 3);
-          el.textContent = Math.round(target * eased) + suffix;
+          el.textContent = prefix + Math.round(startVal + (target - startVal) * eased) + suffix;
           if (k < 1) requestAnimationFrame(step);
         };
         requestAnimationFrame(step);
@@ -708,6 +710,75 @@
    * ------------------------------------------------------------------ */
   const projectBySlug = new Map(DATA.PROJECTS.map((p) => [p.slug, p]));
   const serviceBySlug = new Map(DATA.SERVICES.map((s) => [s.slug, s]));
+  let globalWorkFormat = 'reels'; // 'reels' or 'long'
+
+  function getFormatCounts() {
+    let longTotal = 0;
+    let reelTotal = 0;
+    let longCats = 0;
+    let reelCats = 0;
+    DATA.PROJECTS.forEach((p) => {
+      const { longVideos, reelVideos } = splitVideosByFormat(p.videos);
+      if (longVideos.length > 0) {
+        longTotal += longVideos.length;
+        longCats += 1;
+      }
+      if (reelVideos.length > 0) {
+        reelTotal += reelVideos.length;
+        reelCats += 1;
+      }
+    });
+    return { longTotal, reelTotal, longCats, reelCats };
+  }
+
+  function getFormatCover(p, fmt, longVideos, reelVideos) {
+    const targetList = fmt === 'long' ? longVideos : reelVideos;
+    if (targetList.length > 0) {
+      const firstV = normalize(targetList[0].raw);
+      const firstM = mediaInfo(firstV);
+      if (firstM.thumb) {
+        return {
+          thumb: firstM.thumb,
+          fallbackThumb: firstM.fallbackThumb || (p.cover ? `${p.cover}?v=hq3` : null)
+        };
+      }
+    }
+    return {
+      thumb: p.cover ? `${p.cover}?v=hq3` : null,
+      fallbackThumb: null
+    };
+  }
+
+  function renderWorkFormatSwitch() {
+    const sw = $('#workFormatSwitch');
+    if (!sw) return;
+    const { longTotal, reelTotal, longCats, reelCats } = getFormatCounts();
+    sw.innerHTML = `
+      <button type="button" role="tab" class="work-fmt-card${globalWorkFormat === 'reels' ? ' is-active' : ''}" data-work-format="reels" aria-selected="${globalWorkFormat === 'reels' ? 'true' : 'false'}">
+        <div class="wfc-thumb" data-ar="9/16">
+          <img src="assets/videos/skills/craft_4_ai.jpg?v=hq3" alt="" loading="lazy" decoding="async">
+          <span class="wfc-badge">9:16 Vertical</span>
+          <span class="wfc-ico">${icon('reel')}</span>
+        </div>
+        <div class="wfc-body">
+          <span class="wfc-kicker">${reelCats} Categories · ${reelTotal} Videos</span>
+          <strong>Vertical Reels &amp; Shorts</strong>
+          <small>High-retention 9:16 social edits, reels &amp; ads</small>
+        </div>
+      </button>
+      <button type="button" role="tab" class="work-fmt-card${globalWorkFormat === 'long' ? ' is-active' : ''}" data-work-format="long" aria-selected="${globalWorkFormat === 'long' ? 'true' : 'false'}">
+        <div class="wfc-thumb" data-ar="16/9">
+          <img src="assets/images/categories/corporate-conferences.jpg?v=hq3" alt="" loading="lazy" decoding="async">
+          <span class="wfc-badge">16:9 Cinema</span>
+          <span class="wfc-ico">${icon('camera')}</span>
+        </div>
+        <div class="wfc-body">
+          <span class="wfc-kicker">${longCats} Categories · ${longTotal} Films</span>
+          <strong>Long / Horizontal Films</strong>
+          <small>16:9 widescreen commercials, summits &amp; concerts</small>
+        </div>
+      </button>`;
+  }
 
   function normalize(item) {
     if (Array.isArray(item)) {
@@ -807,29 +878,40 @@
   }
 
   function renderProjects() {
+    renderWorkFormatSwitch();
     const grid = $('#projectGrid');
-    grid.innerHTML = DATA.PROJECTS.map((p, i) => {
+    const filteredProjects = DATA.PROJECTS.filter((p) => {
       const { longVideos, reelVideos } = splitVideosByFormat(p.videos);
+      return globalWorkFormat === 'long' ? longVideos.length > 0 : reelVideos.length > 0;
+    });
+
+    grid.innerHTML = filteredProjects.map((p, i) => {
+      const { longVideos, reelVideos } = splitVideosByFormat(p.videos);
+      const activeList = globalWorkFormat === 'long' ? longVideos : reelVideos;
+      const countLabel = globalWorkFormat === 'long'
+        ? `${activeList.length} ${activeList.length === 1 ? 'film' : 'films'}`
+        : `${activeList.length} ${activeList.length === 1 ? 'reel' : 'reels'}`;
+      const coverObj = getFormatCover(p, globalWorkFormat, longVideos, reelVideos);
+      const coverAttr = coverObj.fallbackThumb
+        ? ` data-fb="${esc(coverObj.fallbackThumb)}" onload="if(this.naturalWidth<=120&&this.dataset.fb){this.src=this.dataset.fb;delete this.dataset.fb;}" onerror="if(this.dataset.fb){this.src=this.dataset.fb;delete this.dataset.fb;}else{this.remove();}"`
+        : ' onerror="this.remove()"';
+
       return `
-      <a class="project-card reveal" href="?project=${encodeURIComponent(p.slug)}" data-open-project="${esc(p.slug)}" aria-label="Open project: ${esc(p.title)}">
+      <a class="project-card reveal is-in" href="?project=${encodeURIComponent(p.slug)}&format=${globalWorkFormat}" data-open-project="${esc(p.slug)}" data-format="${globalWorkFormat}" aria-label="Open project: ${esc(p.title)}">
         <div class="project-cover">
           <span class="poster-fallback" aria-hidden="true">${icon('stage')}<strong>${esc(p.client.split('·')[0].trim())}</strong><span>${esc(p.tag)}</span></span>
-          ${p.cover ? `<img src="${esc(p.cover)}?v=hq3" alt="" loading="${i < 3 ? 'eager' : 'lazy'}" decoding="async" onerror="this.remove()">` : ''}
+          ${coverObj.thumb ? `<img src="${esc(coverObj.thumb)}" alt="" loading="${i < 3 ? 'eager' : 'lazy'}" decoding="async"${coverAttr}>` : ''}
           <span class="project-tag">${esc(p.tag)}</span>
-          <span class="project-count">${icon('play')} ${p.videos.length} ${p.videos.length === 1 ? 'film' : 'videos'}</span>
+          <span class="project-count">${icon(globalWorkFormat === 'long' ? 'camera' : 'reel')} ${countLabel}</span>
           <span class="project-play">${icon('play')}</span>
         </div>
         <div class="project-body">
           <p class="project-client">${esc(p.client)}</p>
           <h3>${esc(p.title)}</h3>
           ${renderStairDesc(p)}
-          <div class="project-formats" aria-label="Video formats">
-            ${longVideos.length ? `<span class="fmt-pill fmt-long" data-open-project="${esc(p.slug)}" data-format="long">${icon('camera')} Long / Horizontal <b>${longVideos.length}</b></span>` : ''}
-            ${reelVideos.length ? `<span class="fmt-pill fmt-reels" data-open-project="${esc(p.slug)}" data-format="reels">${icon('reel')} Reels <b>${reelVideos.length}</b></span>` : ''}
-          </div>
           <div class="project-foot">
             <span class="project-metric">${esc(p.metric)}</span>
-            <span class="project-open">Open project ${icon('arrow-right')}</span>
+            <span class="project-open">Watch ${globalWorkFormat === 'long' ? 'films' : 'reels'} ${icon('arrow-right')}</span>
           </div>
         </div>
       </a>`;
@@ -855,6 +937,18 @@
   renderServices();
   observeReveals();
 
+  const workFormatSwitch = $('#workFormatSwitch');
+  if (workFormatSwitch) {
+    workFormatSwitch.addEventListener('click', (e) => {
+      const btn = e.target.closest('[data-work-format]');
+      if (!btn) return;
+      const fmt = btn.dataset.workFormat;
+      if (fmt === globalWorkFormat) return;
+      globalWorkFormat = fmt;
+      renderProjects();
+    });
+  }
+
   /* ------------------------------------------------------------------ *
    * 6. Deep-linked viewer dialog
    * ------------------------------------------------------------------ */
@@ -870,8 +964,16 @@
   let closingFromPop = false;
   let afterClose = null;
   let activeProjectSlug = null;
+  let activeProjectFormat = 'reels';
 
-  function updateProjectNav(type, slug) {
+  function getProjectsForFormat(fmt) {
+    return DATA.PROJECTS.filter((p) => {
+      const { longVideos, reelVideos } = splitVideosByFormat(p.videos);
+      return fmt === 'long' ? longVideos.length > 0 : reelVideos.length > 0;
+    });
+  }
+
+  function updateProjectNav(type, slug, fmt = globalWorkFormat) {
     if (!viewerPrev || !viewerNext) return;
     if (type !== 'project') {
       activeProjectSlug = null;
@@ -879,7 +981,7 @@
       viewerNext.hidden = true;
       return;
     }
-    const list = DATA.PROJECTS;
+    const list = getProjectsForFormat(fmt);
     const idx = list.findIndex((p) => p.slug === slug);
     if (idx === -1 || list.length < 2) {
       activeProjectSlug = null;
@@ -888,6 +990,7 @@
       return;
     }
     activeProjectSlug = slug;
+    activeProjectFormat = fmt;
     const prevProj = list[(idx - 1 + list.length) % list.length];
     const nextProj = list[(idx + 1) % list.length];
 
@@ -895,6 +998,8 @@
     viewerNext.hidden = false;
     viewerPrev.dataset.targetSlug = prevProj.slug;
     viewerNext.dataset.targetSlug = nextProj.slug;
+    viewerPrev.dataset.targetFormat = fmt;
+    viewerNext.dataset.targetFormat = fmt;
     viewerPrev.setAttribute('aria-label', `Previous project: ${prevProj.title}`);
     viewerNext.setAttribute('aria-label', `Next project: ${nextProj.title}`);
     if (viewerPrevLabel) viewerPrevLabel.textContent = prevProj.tag || prevProj.title;
@@ -921,27 +1026,30 @@
 
   function projectView(p, initialFormat) {
     const { longVideos, reelVideos } = splitVideosByFormat(p.videos);
-    let activeFormat = initialFormat;
+    let activeFormat = initialFormat || globalWorkFormat;
     if (activeFormat !== 'long' && activeFormat !== 'reels') {
-      activeFormat = longVideos.length > 0 ? 'long' : 'reels';
+      activeFormat = reelVideos.length > 0 ? 'reels' : 'long';
     }
     if (activeFormat === 'long' && longVideos.length === 0 && reelVideos.length > 0) activeFormat = 'reels';
     if (activeFormat === 'reels' && reelVideos.length === 0 && longVideos.length > 0) activeFormat = 'long';
+    activeProjectFormat = activeFormat;
+
+    const shownVideos = activeFormat === 'long' ? longVideos : reelVideos;
+    const formatBadge = activeFormat === 'long'
+      ? `<span class="chip accent">${icon('camera')} Long / Horizontal (16:9) · ${shownVideos.length} ${shownVideos.length === 1 ? 'Film' : 'Films'}</span>`
+      : `<span class="chip accent">${icon('reel')} Vertical Reels (9:16) · ${shownVideos.length} ${shownVideos.length === 1 ? 'Reel' : 'Reels'}</span>`;
 
     return `
       <header class="viewer-head">
+        <div class="viewer-meta">${formatBadge}</div>
         <h2 id="viewerTitle">${esc(p.title)}</h2>
         <div class="viewer-ctas">
           <a class="btn btn-wa" href="${waLink(`Hi Abdelrazek, I watched your "${p.title}" project and I'd like something similar.`)}" target="_blank" rel="noopener">${icon('whatsapp')} I want something like this</a>
         </div>
       </header>
       <div class="format-section" data-active-format="${activeFormat}">
-        ${renderFormatTabs(longVideos.length, reelVideos.length, activeFormat)}
-        <div class="video-grid format-panel" data-format-panel="long" ${activeFormat !== 'long' ? 'hidden' : ''}>
-          ${longVideos.map(({ raw, idx }) => videoCard(raw, `${p.slug}:${idx}`)).join('')}
-        </div>
-        <div class="video-grid format-panel" data-format-panel="reels" ${activeFormat !== 'reels' ? 'hidden' : ''}>
-          ${reelVideos.map(({ raw, idx }) => videoCard(raw, `${p.slug}:${idx}`)).join('')}
+        <div class="video-grid format-panel" data-format-panel="${activeFormat}">
+          ${shownVideos.map(({ raw, idx }) => videoCard(raw, `${p.slug}:${idx}`)).join('')}
         </div>
       </div>`;
   }
@@ -1008,6 +1116,7 @@
     const url = new URL(window.location.href);
     url.searchParams.delete('project');
     url.searchParams.delete('service');
+    url.searchParams.delete('format');
     return url;
   }
 
@@ -1021,14 +1130,18 @@
     const item = type === 'project' ? projectBySlug.get(slug) : serviceBySlug.get(slug);
     if (!item) return false;
 
-    viewerBody.innerHTML = type === 'project' ? projectView(item, initialFormat) : serviceView(item);
+    const targetFormat = type === 'project' ? (initialFormat || globalWorkFormat) : undefined;
+    viewerBody.innerHTML = type === 'project' ? projectView(item, targetFormat) : serviceView(item);
     viewerBody.scrollTop = 0;
     document.title = `${item.title} — ARZ Portfolio`;
-    updateProjectNav(type, slug);
+    updateProjectNav(type, slug, activeProjectFormat);
 
     if (mode !== 'none') {
       const url = cleanUrl();
       url.searchParams.set(type, slug);
+      if (type === 'project' && activeProjectFormat) {
+        url.searchParams.set('format', activeProjectFormat);
+      }
       url.hash = '';
       if (mode === 'push' && !viewer.open) {
         history.pushState({ az: true }, '', url);
@@ -1071,7 +1184,8 @@
     const params = new URLSearchParams(window.location.search);
     const project = params.get('project');
     const service = params.get('service');
-    if (project && openView('project', project, 'none')) return;
+    const fmt = params.get('format') || undefined;
+    if (project && openView('project', project, 'none', fmt)) return;
     if (service && openView('service', service, 'none')) return;
     if (viewer.open) { closingFromPop = true; openedByPush = false; viewer.close(); }
   });
@@ -1080,12 +1194,12 @@
 
   if (viewerPrev) {
     viewerPrev.addEventListener('click', () => {
-      if (viewerPrev.dataset.targetSlug) openView('project', viewerPrev.dataset.targetSlug, 'replace');
+      if (viewerPrev.dataset.targetSlug) openView('project', viewerPrev.dataset.targetSlug, 'replace', viewerPrev.dataset.targetFormat || activeProjectFormat);
     });
   }
   if (viewerNext) {
     viewerNext.addEventListener('click', () => {
-      if (viewerNext.dataset.targetSlug) openView('project', viewerNext.dataset.targetSlug, 'replace');
+      if (viewerNext.dataset.targetSlug) openView('project', viewerNext.dataset.targetSlug, 'replace', viewerNext.dataset.targetFormat || activeProjectFormat);
     });
   }
 
@@ -1094,10 +1208,10 @@
     if (theater && theater.open) return;
     if (e.key === 'ArrowLeft' && viewerPrev && !viewerPrev.hidden && viewerPrev.dataset.targetSlug) {
       e.preventDefault();
-      openView('project', viewerPrev.dataset.targetSlug, 'replace');
+      openView('project', viewerPrev.dataset.targetSlug, 'replace', viewerPrev.dataset.targetFormat || activeProjectFormat);
     } else if (e.key === 'ArrowRight' && viewerNext && !viewerNext.hidden && viewerNext.dataset.targetSlug) {
       e.preventDefault();
-      openView('project', viewerNext.dataset.targetSlug, 'replace');
+      openView('project', viewerNext.dataset.targetSlug, 'replace', viewerNext.dataset.targetFormat || activeProjectFormat);
     }
   });
 
@@ -1279,7 +1393,12 @@
   // Initial deep link
   (function initFromUrl() {
     const params = new URLSearchParams(window.location.search);
-    if (params.get('project')) openView('project', params.get('project'), 'none') || history.replaceState(null, '', cleanUrl());
+    const fmt = params.get('format') || undefined;
+    if (fmt === 'long' || fmt === 'reels') {
+      globalWorkFormat = fmt;
+      renderProjects();
+    }
+    if (params.get('project')) openView('project', params.get('project'), 'none', fmt) || history.replaceState(null, '', cleanUrl());
     else if (params.get('service')) openView('service', params.get('service'), 'none') || history.replaceState(null, '', cleanUrl());
   })();
 
