@@ -50,7 +50,7 @@
   <!-- LCP image -->
   <link rel="preload" as="image" href="assets/images/PORTIFOLIO_960.jpg?v=20261110V" fetchpriority="high">
 
-  <link rel="stylesheet" href="styles.css?v=20261110III">
+  <link rel="stylesheet" href="styles.css?v=20261110JJJ">
 
   <!-- Structured data -->
   <script type="application/ld+json">
@@ -73,7 +73,7 @@
 
   <script src="data.js?v=20261110QQ" defer></script>
   <script src="thumbs.js?v=20261110W" defer></script>
-  <script src="app.js?v=20261110TT" defer></script>
+  <script src="app.js?v=20261110UU" defer></script>
 </head>
 <body>
 
@@ -87,6 +87,7 @@
     <symbol id="i-mail" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></g></symbol>
     <symbol id="i-download" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></g></symbol>
     <symbol id="i-arrow-down" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M12 5v14M6 13l6 6 6-6"/></symbol>
+    <symbol id="i-arrow-left" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M19 12H5M11 18l-6-6 6-6"/></symbol>
     <symbol id="i-arrow-right" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M5 12h14M13 6l6 6-6 6"/></symbol>
     <symbol id="i-external" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></symbol>
     <symbol id="i-play" viewBox="0 0 24 24"><path fill="currentColor" d="M6.5 4.9v14.2a1 1 0 0 0 1.52.85l11.4-7.1a1 1 0 0 0 0-1.7L8.02 4.05A1 1 0 0 0 6.5 4.9Z"/></symbol>
@@ -812,6 +813,20 @@
         <button type="button" class="icon-btn" id="viewerShare" aria-label="Copy link to this page"><svg><use href="#i-share"/></svg><span class="share-tip" id="shareTip">Link copied</span></button>
         <button type="button" class="icon-btn close" id="viewerClose" aria-label="Close" autofocus><svg><use href="#i-close"/></svg></button>
       </div>
+      <button type="button" class="viewer-nav viewer-prev" id="viewerPrev" aria-label="Previous project" hidden>
+        <span class="viewer-nav-ico"><svg><use href="#i-arrow-left"/></svg></span>
+        <span class="viewer-nav-meta">
+          <small>Previous</small>
+          <strong id="viewerPrevLabel"></strong>
+        </span>
+      </button>
+      <button type="button" class="viewer-nav viewer-next" id="viewerNext" aria-label="Next project" hidden>
+        <span class="viewer-nav-meta">
+          <small>Next</small>
+          <strong id="viewerNextLabel"></strong>
+        </span>
+        <span class="viewer-nav-ico"><svg><use href="#i-arrow-right"/></svg></span>
+      </button>
       <div class="viewer-body" id="viewerBody"></div>
     </div>
   </dialog>

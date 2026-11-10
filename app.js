@@ -860,11 +860,46 @@
    * ------------------------------------------------------------------ */
   const viewer = $('#viewer');
   const viewerBody = $('#viewerBody');
+  const viewerPrev = $('#viewerPrev');
+  const viewerNext = $('#viewerNext');
+  const viewerPrevLabel = $('#viewerPrevLabel');
+  const viewerNextLabel = $('#viewerNextLabel');
   const shareTip = $('#shareTip');
   let openedByPush = false;
   let ignoreNextPop = false;
   let closingFromPop = false;
   let afterClose = null;
+  let activeProjectSlug = null;
+
+  function updateProjectNav(type, slug) {
+    if (!viewerPrev || !viewerNext) return;
+    if (type !== 'project') {
+      activeProjectSlug = null;
+      viewerPrev.hidden = true;
+      viewerNext.hidden = true;
+      return;
+    }
+    const list = DATA.PROJECTS;
+    const idx = list.findIndex((p) => p.slug === slug);
+    if (idx === -1 || list.length < 2) {
+      activeProjectSlug = null;
+      viewerPrev.hidden = true;
+      viewerNext.hidden = true;
+      return;
+    }
+    activeProjectSlug = slug;
+    const prevProj = list[(idx - 1 + list.length) % list.length];
+    const nextProj = list[(idx + 1) % list.length];
+
+    viewerPrev.hidden = false;
+    viewerNext.hidden = false;
+    viewerPrev.dataset.targetSlug = prevProj.slug;
+    viewerNext.dataset.targetSlug = nextProj.slug;
+    viewerPrev.setAttribute('aria-label', `Previous project: ${prevProj.title}`);
+    viewerNext.setAttribute('aria-label', `Next project: ${nextProj.title}`);
+    if (viewerPrevLabel) viewerPrevLabel.textContent = prevProj.tag || prevProj.title;
+    if (viewerNextLabel) viewerNextLabel.textContent = nextProj.tag || nextProj.title;
+  }
 
   function renderFormatTabs(longCount, reelCount, activeFormat, scopeAttr = '') {
     return `
@@ -989,6 +1024,7 @@
     viewerBody.innerHTML = type === 'project' ? projectView(item, initialFormat) : serviceView(item);
     viewerBody.scrollTop = 0;
     document.title = `${item.title} — ARZ Portfolio`;
+    updateProjectNav(type, slug);
 
     if (mode !== 'none') {
       const url = cleanUrl();
@@ -1016,6 +1052,7 @@
   viewer.addEventListener('close', () => {
     viewerBody.innerHTML = ''; // stops any playing iframe / video
     document.title = BASE_TITLE;
+    updateProjectNav(null, null);
     if (closingFromPop) {
       closingFromPop = false;
     } else if (openedByPush) {
@@ -1040,6 +1077,29 @@
   });
 
   $('#viewerClose').addEventListener('click', () => closeView());
+
+  if (viewerPrev) {
+    viewerPrev.addEventListener('click', () => {
+      if (viewerPrev.dataset.targetSlug) openView('project', viewerPrev.dataset.targetSlug, 'replace');
+    });
+  }
+  if (viewerNext) {
+    viewerNext.addEventListener('click', () => {
+      if (viewerNext.dataset.targetSlug) openView('project', viewerNext.dataset.targetSlug, 'replace');
+    });
+  }
+
+  document.addEventListener('keydown', (e) => {
+    if (!viewer.open || !activeProjectSlug) return;
+    if (theater && theater.open) return;
+    if (e.key === 'ArrowLeft' && viewerPrev && !viewerPrev.hidden && viewerPrev.dataset.targetSlug) {
+      e.preventDefault();
+      openView('project', viewerPrev.dataset.targetSlug, 'replace');
+    } else if (e.key === 'ArrowRight' && viewerNext && !viewerNext.hidden && viewerNext.dataset.targetSlug) {
+      e.preventDefault();
+      openView('project', viewerNext.dataset.targetSlug, 'replace');
+    }
+  });
 
   // Light-dismiss fallback for browsers without <dialog closedby>
   if (!('closedBy' in HTMLDialogElement.prototype)) {
