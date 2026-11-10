@@ -732,19 +732,23 @@
   }
 
   function getFormatCover(p, fmt, longVideos, reelVideos) {
+    const customCover = fmt === 'long' ? (p.longCover || p.cover) : (p.reelCover || p.cover);
     const targetList = fmt === 'long' ? longVideos : reelVideos;
+    let firstThumb = null;
     if (targetList.length > 0) {
       const firstV = normalize(targetList[0].raw);
       const firstM = mediaInfo(firstV);
-      if (firstM.thumb) {
-        return {
-          thumb: firstM.thumb,
-          fallbackThumb: firstM.fallbackThumb || (p.cover ? `${p.cover}?v=hq3` : null)
-        };
-      }
+      firstThumb = firstM.thumb || firstM.fallbackThumb || null;
+    }
+    if (customCover) {
+      const isExternal = /^https?:\/\//i.test(customCover);
+      return {
+        thumb: isExternal ? customCover : `${customCover}?v=hq4`,
+        fallbackThumb: firstThumb
+      };
     }
     return {
-      thumb: p.cover ? `${p.cover}?v=hq3` : null,
+      thumb: firstThumb,
       fallbackThumb: null
     };
   }
@@ -799,7 +803,7 @@
     switch (v.type) {
       case 'youtube':
         return {
-          thumb: `https://i.ytimg.com/vi/${v.id}/maxresdefault.jpg`,
+          thumb: v.thumb || `https://i.ytimg.com/vi/${v.id}/maxresdefault.jpg`,
           fallbackThumb: `https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`,
           o: v.o || 'v',
           ext: `https://youtu.be/${v.id}`
