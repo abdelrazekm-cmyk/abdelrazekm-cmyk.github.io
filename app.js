@@ -755,26 +755,26 @@
     const { longTotal, reelTotal, longCats, reelCats } = getFormatCounts();
     sw.innerHTML = `
       <button type="button" role="tab" class="work-fmt-card${globalWorkFormat === 'reels' ? ' is-active' : ''}" data-work-format="reels" aria-selected="${globalWorkFormat === 'reels' ? 'true' : 'false'}">
-        <div class="wfc-thumb" data-ar="9/16">
-          <img src="assets/videos/skills/craft_4_ai.jpg?v=hq3" alt="" loading="lazy" decoding="async">
-          <span class="wfc-badge">9:16 Vertical</span>
-          <span class="wfc-ico">${icon('reel')}</span>
+        <div class="wfc-collage wfc-collage-reels" aria-hidden="true">
+          <span class="wfc-c-item"><img src="assets/videos/skills/craft_4_ai_2.jpg?v=hq3" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/videos/skills/craft_4_ai_3.jpg?v=hq3" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/videos/skills/craft_4_ai.jpg?v=hq3" alt="" loading="lazy" decoding="async"></span>
         </div>
         <div class="wfc-body">
-          <span class="wfc-kicker">${reelCats} Categories · ${reelTotal} Videos</span>
+          <span class="wfc-kicker">9:16 Vertical · ${reelCats} Categories · ${reelTotal} Reels</span>
           <strong>Vertical Reels &amp; Shorts</strong>
           <small>High-retention 9:16 social edits, reels &amp; ads</small>
         </div>
       </button>
       <button type="button" role="tab" class="work-fmt-card${globalWorkFormat === 'long' ? ' is-active' : ''}" data-work-format="long" aria-selected="${globalWorkFormat === 'long' ? 'true' : 'false'}">
-        <div class="wfc-thumb" data-ar="16/9">
-          <img src="assets/images/categories/corporate-conferences.jpg?v=hq3" alt="" loading="lazy" decoding="async">
-          <span class="wfc-badge">16:9 Cinema</span>
-          <span class="wfc-ico">${icon('camera')}</span>
+        <div class="wfc-collage wfc-collage-long" aria-hidden="true">
+          <span class="wfc-c-item"><img src="assets/images/categories/commercial-brand-ads.jpg?v=hq3" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/images/categories/events-weddings-concerts.jpg?v=hq3" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/images/categories/corporate-conferences.jpg?v=hq3" alt="" loading="lazy" decoding="async"></span>
         </div>
         <div class="wfc-body">
-          <span class="wfc-kicker">${longCats} Categories · ${longTotal} Films</span>
-          <strong>Long / Horizontal Films</strong>
+          <span class="wfc-kicker">16:9 Cinema · ${longCats} Categories · ${longTotal} Films</span>
+          <strong>Horizontal Films</strong>
           <small>16:9 widescreen commercials, summits &amp; concerts</small>
         </div>
       </button>`;
@@ -1011,7 +1011,7 @@
       <div class="format-tabs" role="tablist" aria-label="Filter videos by format"${scopeAttr}>
         <button type="button" role="tab" class="format-tab${activeFormat === 'long' ? ' is-active' : ''}${longCount === 0 ? ' is-empty' : ''}" data-format-tab="long" aria-selected="${activeFormat === 'long' ? 'true' : 'false'}" ${longCount === 0 ? 'disabled' : ''}>
           ${icon('camera')}
-          <span class="ft-label">Long / Horizontal</span>
+          <span class="ft-label">Horizontal Films</span>
           <span class="ft-sub">16:9</span>
           <span class="ft-count">${longCount}</span>
         </button>
@@ -1036,7 +1036,7 @@
 
     const shownVideos = activeFormat === 'long' ? longVideos : reelVideos;
     const formatBadge = activeFormat === 'long'
-      ? `<span class="chip accent">${icon('camera')} Long / Horizontal (16:9) · ${shownVideos.length} ${shownVideos.length === 1 ? 'Film' : 'Films'}</span>`
+      ? `<span class="chip accent">${icon('camera')} Horizontal Films (16:9) · ${shownVideos.length} ${shownVideos.length === 1 ? 'Film' : 'Films'}</span>`
       : `<span class="chip accent">${icon('reel')} Vertical Reels (9:16) · ${shownVideos.length} ${shownVideos.length === 1 ? 'Reel' : 'Reels'}</span>`;
 
     return `

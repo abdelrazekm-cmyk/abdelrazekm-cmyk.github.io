@@ -1411,64 +1411,92 @@ html[data-theme="light"] .vf-photo .vf-img-light { opacity: 1; }
     0 0 36px rgba(219, 155, 62, .42),
     inset 0 0 18px rgba(255, 224, 165, .18);
 }
-.wfc-thumb {
+.wfc-collage {
   position: relative;
+  width: 138px;
+  height: 102px;
   flex: none;
-  width: 112px;
-  height: 78px;
-  border-radius: 12px;
-  overflow: hidden;
-  background: var(--surface-2);
-  border: 1px solid rgba(219, 155, 62, .35);
-  box-shadow: 0 10px 24px -8px rgba(0, 0, 0, .65);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.wfc-thumb img {
+.wfc-c-item {
+  position: absolute;
+  border-radius: 9px;
+  overflow: hidden;
+  border: 1.5px solid rgba(255, 232, 190, .42);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, .75);
+  background: #0B0907;
+  transition: transform .42s var(--ease), border-color .3s, box-shadow .35s;
+}
+.wfc-c-item img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   object-position: center 22%;
-  filter: saturate(.95) contrast(1.04);
-  transition: transform .5s var(--ease), filter .4s;
+  display: block;
 }
-.work-fmt-card:hover .wfc-thumb img,
-.work-fmt-card.is-active .wfc-thumb img {
-  transform: scale(1.07);
-  filter: saturate(1.12) contrast(1.06);
+/* Reels 9:16 trio fan */
+.wfc-collage-reels .wfc-c-item {
+  width: 50px;
+  aspect-ratio: 9 / 16;
 }
-.wfc-badge {
-  position: absolute;
-  left: 6px;
-  bottom: 6px;
-  padding: 3px 7px;
-  border-radius: 999px;
-  background: rgba(14, 10, 7, .82);
-  -webkit-backdrop-filter: blur(6px);
-  backdrop-filter: blur(6px);
-  border: 1px solid rgba(219, 155, 62, .42);
-  font: 700 .6rem/1 var(--font-mono);
-  color: var(--orange-2);
-  letter-spacing: .04em;
+.wfc-collage-reels .wfc-c-item:nth-child(1) {
+  transform: translateX(-31px) rotate(-10deg) scale(.9);
+  opacity: .84;
+  z-index: 1;
 }
-.wfc-ico {
-  position: absolute;
-  top: 6px;
-  right: 6px;
-  display: grid;
-  place-items: center;
-  width: 24px;
-  height: 24px;
-  border-radius: 50%;
-  background: rgba(14, 10, 7, .75);
-  color: var(--orange);
-  border: 1px solid rgba(255, 255, 255, .14);
-  transition: background-color .25s, color .25s;
+.wfc-collage-reels .wfc-c-item:nth-child(2) {
+  transform: translateX(31px) rotate(10deg) scale(.9);
+  opacity: .84;
+  z-index: 1;
 }
-.work-fmt-card.is-active .wfc-ico {
-  background: var(--orange);
-  color: var(--orange-ink);
-  border-color: var(--orange);
+.wfc-collage-reels .wfc-c-item:nth-child(3) {
+  transform: translateY(-2px) scale(1.04);
+  z-index: 3;
+  border-color: var(--orange-2);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, .85), 0 0 18px rgba(219, 155, 62, .45);
 }
-.wfc-ico svg { width: 13px; height: 13px; }
+.work-fmt-card:hover .wfc-collage-reels .wfc-c-item:nth-child(1) {
+  transform: translateX(-35px) rotate(-13deg) scale(.93);
+}
+.work-fmt-card:hover .wfc-collage-reels .wfc-c-item:nth-child(2) {
+  transform: translateX(35px) rotate(13deg) scale(.93);
+}
+.work-fmt-card:hover .wfc-collage-reels .wfc-c-item:nth-child(3) {
+  transform: translateY(-4px) scale(1.08);
+}
+
+/* Horizontal 16:9 stacked cinema frames */
+.wfc-collage-long .wfc-c-item {
+  width: 112px;
+  aspect-ratio: 16 / 9;
+}
+.wfc-collage-long .wfc-c-item:nth-child(1) {
+  transform: translate(-10px, -13px) rotate(-5deg) scale(.92);
+  opacity: .76;
+  z-index: 1;
+}
+.wfc-collage-long .wfc-c-item:nth-child(2) {
+  transform: translate(10px, -5px) rotate(4deg) scale(.95);
+  opacity: .86;
+  z-index: 2;
+}
+.wfc-collage-long .wfc-c-item:nth-child(3) {
+  transform: translate(0, 9px) scale(1.02);
+  z-index: 3;
+  border-color: var(--orange-2);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, .85), 0 0 18px rgba(219, 155, 62, .45);
+}
+.work-fmt-card:hover .wfc-collage-long .wfc-c-item:nth-child(1) {
+  transform: translate(-13px, -16px) rotate(-7deg) scale(.94);
+}
+.work-fmt-card:hover .wfc-collage-long .wfc-c-item:nth-child(2) {
+  transform: translate(13px, -7px) rotate(6deg) scale(.97);
+}
+.work-fmt-card:hover .wfc-collage-long .wfc-c-item:nth-child(3) {
+  transform: translate(0, 11px) scale(1.06);
+}
 .wfc-body {
   display: flex;
   flex-direction: column;
@@ -1512,8 +1540,12 @@ html[data-theme="light"] .work-fmt-card.is-active {
 }
 @media (max-width: 760px) {
   .work-format-switch { grid-template-columns: 1fr; gap: 12px; margin-bottom: 22px; }
-  .work-fmt-card { padding: 12px; gap: 14px; }
-  .wfc-thumb { width: 92px; height: 68px; }
+  .work-fmt-card { padding: 12px 14px; gap: 14px; }
+  .wfc-collage { width: 112px; height: 86px; }
+  .wfc-collage-reels .wfc-c-item { width: 42px; }
+  .wfc-collage-reels .wfc-c-item:nth-child(1) { transform: translateX(-25px) rotate(-10deg) scale(.9); }
+  .wfc-collage-reels .wfc-c-item:nth-child(2) { transform: translateX(25px) rotate(10deg) scale(.9); }
+  .wfc-collage-long .wfc-c-item { width: 92px; }
 }
 .project-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
 .project-card {
