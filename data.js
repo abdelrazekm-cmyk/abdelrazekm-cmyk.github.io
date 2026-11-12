@@ -950,17 +950,6 @@
       },
       {
         "type": "youtube",
-        "id": "DDtEkbIbWLM",
-        "title": "Aveda Clinics — Allergan Facial Aesthetics | Clinical Skin Tone Color Grading",
-        "sub": "Aveda Clinics · Before & After Aesthetic Showcase · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes precise rhythmic cutting on the beat of the music to maintain high engagement. Smooth speed ramping is applied to camera movements to emphasize architectural lines. Transitions are clean, utilizing match cuts and subtle motion-blurred wipes to maintain a premium flow.",
-        "color": "The color grade features a clean, bright, and airy aesthetic typical of luxury real estate. Highlights are carefully controlled to maintain detail in bright windows, while shadows are lifted to reveal interior textures. A subtle warm-to-cool contrast is applied to enhance the depth of the space, with natural saturation levels for interior finishes.",
-        "sound": "The audio mix prioritizes a sophisticated background track with clear, balanced levels. Sound design includes subtle whooshes and riser effects during transitions. Kinetic typography is used for property highlights, featuring smooth ease-in/ease-out animations that align with the brand's luxury identity.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
         "id": "PVIueUP-Mz4",
         "title": "Aveda Clinics — Medical Aesthetics Showcase | Clinical Skin Tone Color Grading",
         "sub": "Aveda Clinics · Facial Contouring & Natural Skin Grade · 9:16 Vertical Reel",
@@ -1085,7 +1074,7 @@
       "split-screen aesthetic testimonials",
       "and luxury beauty salon commercials."
     ],
-    "count": 16,
+    "count": 15,
     "reelCover": "assets/images/categories/medical-aesthetics.jpg",
     "longCover": "assets/images/categories/medical-aesthetics.jpg"
   },
@@ -1107,7 +1096,8 @@
         "craft": "The edit employs aggressive speed ramping to emphasize explosive movements, perfectly synced to the beat of the music. Fast-paced jump cuts maintain high energy, while match cuts between different exercises create a seamless flow. The pacing is designed for maximum hook retention, utilizing quick transitions to keep the viewer engaged throughout the short duration.",
         "color": "The color grade features a high-contrast, gritty aesthetic with crushed blacks and desaturated shadows to emphasize the gym's industrial atmosphere. Skin tones are carefully balanced to remain natural despite the heavy stylistic color treatment. A slight teal-and-orange split tone is applied to add depth and a modern, cinematic feel.",
         "sound": "The sound design is heavily layered with foley effects, including metallic clanks, heavy breathing, and swooshes that punctuate the visual cuts. The music track is EQ-balanced to allow the SFX to cut through the mix. Kinetic typography is used for branding, featuring smooth motion-tracked entrance animations that align with the gym's visual identity.",
-        "badge": "9:16"
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/6DJcc5_aABc/maxresdefault.jpg"
       },
       {
         "type": "youtube",
@@ -1118,7 +1108,8 @@
         "craft": "The edit utilizes aggressive speed ramping to emphasize explosive movements during lifts. Cuts are strictly synced to the percussive elements of the music, creating a high-retention hook. Match cuts are used to transition between different exercises, maintaining a seamless flow throughout the 9:16 frame.",
         "color": "The color grade features a high-contrast, desaturated look with crushed blacks to emphasize the gym's industrial aesthetic. Skin tones are carefully isolated and balanced to remain natural despite the heavy teal and orange color science applied to the shadows and highlights.",
         "sound": "Sound design includes layered foley effects like heavy clanking of weights and sharp whooshes during transitions. The music is EQ-balanced to allow for punchy bass hits that align with the kinetic typography animations, which feature smooth ease-in/ease-out motion paths.",
-        "badge": "9:16"
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/2H_zwNUJwx8/maxresdefault.jpg"
       },
       {
         "type": "youtube",
@@ -1188,7 +1179,7 @@
     ],
     "count": 7,
     "reelCover": "assets/images/categories/fitness-gym.jpg",
-    "longCover": "assets/images/categories/fitness-gym.jpg"
+    "longCover": "assets/images/categories/fitness-gym-horizontal.jpg"
   },
   {
     "slug": "food-hospitality",
@@ -1999,139 +1990,186 @@
     "longCover": "assets/images/categories/automotive-doc-3d.jpg"
   },
   {
-    "slug": "documentary-3d",
-    "title": "Documentaries & 3D Motion",
-    "client": "The 12 Gate AlUla · Al Madina Documentary · Blender 3D",
-    "tag": "Docs & 3D",
-    "cover": "assets/images/categories/documentary-3d.jpg",
-    "metric": "5 Concept & Doc Films",
-    "description": "Aerial heritage documentaries, educational brand films & photorealistic 3D CGI camera motion.",
+    "slug": "documentaries",
+    "title": "Documentary Films",
+    "client": "ARZ Portfolio · Documentary & Culture",
+    "tag": "Documentaries",
+    "cover": "assets/images/categories/documentaries.jpg",
+    "reelCover": "assets/images/categories/documentaries.jpg",
+    "longCover": "assets/images/categories/documentaries.jpg",
+    "metric": "7 Stories & Films",
+    "description": "Narrative documentary storytelling, historical archives, educational films, and natural cinematic color grading.",
+    "lines": [
+      "Narrative documentary storytelling,",
+      "historical archives & campus films",
+      "with natural cinematic color grading."
+    ],
+    "count": 7,
     "videos": [
       {
         "type": "youtube",
-        "id": "OM9KtrFs6gY",
-        "title": "The 12 Gate — AlUla Heritage & Aerial Documentary | Cinematic Drone Grading",
-        "sub": "The 12 Gate · Elephant Rock Aerials & Warm Desert Grade · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes a sophisticated, slow-paced rhythm that emphasizes the grandeur of the architecture. Transitions are primarily clean cross-dissolves and match cuts that maintain spatial continuity. Speed ramping is used subtly to transition between wide establishing shots and tight macro details of interior finishes.",
-        "color": "The color grade features a high-contrast, clean aesthetic with a focus on neutral whites and deep, rich shadows. Skin tones (where applicable) are natural, while the architectural elements benefit from a slight cool-tone lift in the highlights to emphasize the modern, premium feel of the materials.",
-        "sound": "The sound design relies on a layered ambient soundscape, incorporating subtle foley for texture. Kinetic typography is used sparingly but effectively, utilizing smooth ease-in/ease-out animations that align with the camera's motion, ensuring the text feels integrated into the 3D space.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
-        "id": "tW5LG74eo94",
-        "title": "The 12 Gate — AlUla & Riyadh Helicopter Documentary | Cinematic Aerial Cuts",
-        "sub": "The 12 Gate · Aerial Documentary & Desert Color Grade · 9:16 Vertical Reel",
-        "o": "v",
-        "craft": "The edit utilizes aggressive rhythmic cutting synchronized to the beat of the music. It features seamless whip-pan transitions, speed ramping during action sequences, and J-cuts to maintain audio continuity between scene changes. The pacing is designed for high retention, starting with a strong hook and maintaining momentum throughout.",
-        "color": "The color grade employs a modern cinematic look with high contrast and deep shadows. Skin tones are meticulously isolated and balanced to remain natural despite the stylized teal and orange color palette. Film print emulation is applied to provide a textured, organic feel to the digital footage.",
-        "sound": "The sound design is highly layered, featuring crisp foley effects of camera gear that are panned across the stereo field. Vocal EQ is clear and present when dialogue occurs. Kinetic typography is used for branding, featuring smooth easing and motion blur to match the camera movement.",
-        "badge": "9:16"
-      },
-      {
-        "type": "youtube",
         "id": "Bq-5_bmLd1Q",
-        "title": "Al Madina International School — Campus Documentary | Clean Cuts & Natural Grade",
-        "sub": "Educational Documentary Film · Multi-Cam & Color Grading · 16:9 Horizontal Film",
+        "title": "Al Madina International School — Campus Documentary | Clean Narrative Cuts",
+        "sub": "Educational Documentary · Campus Storytelling · 16:9 Film",
         "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
+        "craft": "Narrative pacing, archival b-roll pacing, and seamless interview dialogue cutting.",
+        "color": "Natural documentary color grading with balanced skin tones.",
+        "sound": "Dialogue cleanup, ambient acoustic layering, and balanced scoring.",
         "badge": "16:9",
-        "thumb": "https://i.ytimg.com/vi/Bq-5_bmLd1Q/hq3.jpg"
-      },
-      {
-        "type": "youtube",
-        "id": "FKXaLe7eJ-k",
-        "title": "3D Product & Smartphone Camera CGI Motion | Spatial VFX & Lighting Showcase",
-        "sub": "3D CGI & Motion Design · Photorealistic Lighting & Render · 16:9 Horizontal Film",
-        "o": "h",
-        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
-        "color": "Custom film grade and precise skin-tone color balance.",
-        "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
-      },
-      {
-        "type": "youtube",
-        "id": "tTShyFQI_rc",
-        "title": "Cinematic Sci-Fi & Travel Concept Film | Day-to-Night Color Grading & Atmosphere",
-        "sub": "Visual Storytelling & Atmospheric Color Grading · 16:9 Horizontal Film",
-        "o": "h",
-        "craft": "The edit utilizes a simple, effective match cut between the daylight and night versions of the same shot. The pacing is dictated by the rhythmic beat of the music, creating a punchy, high-energy feel suitable for social media platforms.",
-        "color": "The color grading is the focal point, featuring a clean, natural daylight look that shifts into a dramatic, stylized deep blue night grade. The transition is smooth, maintaining consistent skin tones while shifting the ambient environment to a cool, cinematic night aesthetic.",
-        "sound": "The audio features a clear, high-fidelity pop track with strong vocal presence. The music is synced perfectly to the visual transition, enhancing the impact of the day-to-night shift.",
-        "badge": "16:9"
+        "thumb": "https://i.ytimg.com/vi/Bq-5_bmLd1Q/maxresdefault.jpg"
       },
       {
         "type": "youtube",
         "id": "R8ZUgY0l1zo",
         "title": "Historical Documentary Storytelling | Smooth Transitions & Color Grading",
-        "sub": "Historical Narrative Film · Documented History & Warm Grade · 16:9 Horizontal Film",
+        "sub": "Historical Narrative · Archival Integration · 16:9 Film",
         "o": "h",
-        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
-        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
-        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "craft": "Archival image animation, narrative flow pacing, and emotional story arc.",
+        "color": "Rich period-accurate palette, contrast management, and warm film print emulation.",
+        "sound": "Atmospheric sound design, subtle foley, and emotive orchestral score balancing.",
         "badge": "16:9",
         "thumb": "https://i.ytimg.com/vi/R8ZUgY0l1zo/maxresdefault.jpg"
       },
       {
         "type": "youtube",
         "id": "0sacq5JNCU0",
-        "title": "Cinematic Historical Documentary Edit | Dynamic Narrative Pacing & Grade",
-        "sub": "Historical Documentary · Archival Pacing & Film Print Grade · 16:9 Horizontal Film",
+        "title": "Cinematic Historical Documentary Edit | Dynamic Narrative Pacing & Sound Design",
+        "sub": "Historical Storytelling · Archival Restoration · 16:9 Film",
         "o": "h",
-        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
-        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
-        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "craft": "Dynamic narrative structuring, rhythmic transitions, and visual tension pacing.",
+        "color": "Moody historical film tones with clean shadows and calibrated skin balance.",
+        "sound": "Immersive historical ambience, layered sound design, and impact foley.",
         "badge": "16:9",
         "thumb": "https://i.ytimg.com/vi/0sacq5JNCU0/maxresdefault.jpg"
       },
       {
         "type": "youtube",
         "id": "DiKWeWKRjUU",
-        "title": "Educational Brand Film — Campus Life | Storytelling & Natural Color",
-        "sub": "Academic Campus Documentary · Clean Storytelling · 16:9 Horizontal Film",
+        "title": "Educational Brand Film — Campus Life | Storytelling & Natural Color Grading",
+        "sub": "Educational Documentary · Campus Storytelling · 16:9 Film",
         "o": "h",
-        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
-        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
-        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "craft": "Observational documentary pacing, smooth gimbal tracking cuts, and clean interview pacing.",
+        "color": "Bright organic daylight grade with accurate uniform skin tones.",
+        "sound": "Crisp multi-track voiceover balancing with cheerful dynamic music bed.",
         "badge": "16:9",
         "thumb": "https://i.ytimg.com/vi/DiKWeWKRjUU/maxresdefault.jpg"
       },
       {
         "type": "youtube",
         "id": "bua-Y3Kzvnc",
-        "title": "Educational Brand Film — Student Growth | Rhythmic Pacing & Grade",
-        "sub": "Institutional Documentary · Student Journey & Color Grade · 16:9 Horizontal Film",
+        "title": "Educational Brand Film — Student Growth | Rhythmic Pacing & Sound Design",
+        "sub": "Educational Documentary · Student Journey · 16:9 Film",
         "o": "h",
-        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
-        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
-        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "craft": "Emotional narrative trajectory, fast montages contrasted with thoughtful interview beats.",
+        "color": "Clean commercial grade, faithful brand palette, and refined natural skintones.",
+        "sound": "Dynamic acoustic guitar layering, vocal clarity, and polished transition risers.",
         "badge": "16:9",
         "thumb": "https://i.ytimg.com/vi/bua-Y3Kzvnc/maxresdefault.jpg"
       },
       {
         "type": "youtube",
-        "id": "SLGyl3eNHzc",
-        "title": "Educational STEM & F1 Brand Film | Motion Graphics & Clean Interview Cuts",
-        "sub": "STEM Racing Educational Film · 3D Motion Graphics & Cuts · 16:9 Horizontal Film",
+        "id": "OM9KtrFs6gY",
+        "title": "The 12 Gate — AlUla Heritage & Aerial Documentary | Cinematic Travel Pacing",
+        "sub": "Heritage Documentary · Cinematic Aerials · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "Sweeping drone movement matching, landscape transition timing, and heritage narrative.",
+        "color": "Golden-hour desert warmth, balanced sky gradients, and crisp stone textures.",
+        "sound": "Authentic regional instrumentation, wind foley, and wide stereo mastering.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/OM9KtrFs6gY/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "tW5LG74eo94",
+        "title": "The 12 Gate — AlUla & Riyadh Helicopter Documentary | Cinematic Aerial Storytelling",
+        "sub": "Aerial Travel Documentary · Multi-Location · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "Helicopter banking speed ramps, architectural reveal timing, and dynamic cuts.",
+        "color": "Vibrant contrast, deep mountain shadows, and pure highlights.",
+        "sound": "Subtle rotor acoustics, atmospheric synth drone, and crisp vocal narration.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/tW5LG74eo94/maxresdefault.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "three-d-motion",
+    "title": "3D Motion & CGI",
+    "client": "ARZ Portfolio · Spatial 3D & VFX",
+    "tag": "3D Motion",
+    "cover": "assets/images/categories/three-d-motion.jpg",
+    "reelCover": "assets/images/categories/three-d-motion.jpg",
+    "longCover": "assets/images/categories/three-d-motion.jpg",
+    "metric": "5 Spatial & CGI Spots",
+    "description": "Spatial 3D CGI product animation, smartphone lighting VFX, F1 dynamic graphics, and procedural visual design.",
+    "lines": [
+      "Spatial 3D CGI product animation,",
+      "camera tracking & spatial VFX",
+      "for luxury tech and commercial brands."
+    ],
+    "count": 5,
+    "videos": [
+      {
+        "type": "youtube",
+        "id": "FKXaLe7eJ-k",
+        "title": "3D Product & Smartphone Camera CGI Motion | Spatial VFX & Lighting Animation",
+        "sub": "3D CGI Animation · Product Commercial · 16:9 Film",
         "o": "h",
-        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
-        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
-        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "craft": "Photorealistic 3D camera sweeps, exploded-view timing, and dynamic product rotation.",
+        "color": "High-contrast specular reflections, metallic studio lighting, and chromatic grading.",
+        "sound": "Futuristic mechanical foley, spatial whooshes, and sub-bass impacts.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/FKXaLe7eJ-k/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "SLGyl3eNHzc",
+        "title": "Educational STEM & F1 Brand Film | Motion Graphics & Clean Industry Pacing",
+        "sub": "3D Motion Graphics · F1 Engineering · 16:9 Film",
+        "o": "h",
+        "craft": "Dynamic telemetry graphics, technical motion callouts, and rhythmic sound sync.",
+        "color": "High-tech saturated primaries, clean industrial lighting, and vivid contrast.",
+        "sound": "Engine telemetry sfx, high-tech interface clicks, and driving electronic tempo.",
         "badge": "16:9",
         "thumb": "https://i.ytimg.com/vi/SLGyl3eNHzc/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "tTShyFQI_rc",
+        "title": "Cinematic Sci-Fi & Travel Concept Film | Day-to-Night Color Grading & Sound Design",
+        "sub": "Sci-Fi Concept · Spatial VFX & Compositing · 16:9 Film",
+        "o": "h",
+        "craft": "Seamless VFX blending, sky replacement, and scale perspective matching.",
+        "color": "Dramatic day-to-night transformation, neon bioluminescent highlights, and deep teal shadows.",
+        "sound": "Spacious sci-fi soundscapes, cosmic sub-sweeps, and detailed atmospheric layering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/tTShyFQI_rc/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "AFBpcyYjkXs",
+        "title": "AI & 3D Character Storytelling Ad | Generative Visuals & Dynamic Sound Design",
+        "sub": "3D Animated Storytelling · Generative Visuals · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
+        "color": "Custom film grade and precise skin-tone color balance.",
+        "sound": "Clean audio mastering and dynamic motion graphics.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/AFBpcyYjkXs/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "p9m3SRwFpPw",
+        "title": "Medical Health Explainer | Kinetic Typography & 3D Anatomy Integration",
+        "sub": "Medical Explainer · 3D Anatomy Graphics · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "Informative 3D anatomical overlays, rhythmic kinetic text, and retention-focused pacing.",
+        "color": "Clean clinical daylight palette with high-clarity graphic separation.",
+        "sound": "Subtle UI audio pops, gentle upbeat underscore, and broadcast-level vocal leveling.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/p9m3SRwFpPw/maxresdefault.jpg"
       }
-    ],
-    "lines": [
-      "Aerial heritage & campus documentaries,",
-      "photorealistic 3D CGI product motion",
-      "and atmospheric narrative color grading."
-    ],
-    "count": 10,
-    "reelCover": "assets/images/categories/documentary-3d.jpg",
-    "longCover": "assets/images/categories/documentary-3d.jpg"
+    ]
   },
   {
     "slug": "corporate-conferences",
@@ -2408,7 +2446,8 @@
         "craft": "The editing follows a classic narrative structure, transitioning from the intimate preparation phase to the grand celebration. Pacing is deliberate and slow during the morning prep shots, utilizing smooth cross-dissolves and match cuts to establish a luxurious tone. As the video transitions to the wedding hall, the cutting rhythm increases, syncing with the beat of the traditional music to capture the energy of the celebration.",
         "color": "The color grade features a clean, professional look with natural skin tones. The morning shots have a soft, bright, and airy aesthetic, while the evening venue shots utilize a warmer, more saturated palette to emphasize the golden lighting and festive atmosphere of the wedding hall.",
         "sound": "The audio mix is well-balanced, with the Arabic voiceover clearly layered over the background music. The traditional music is the driving force of the second half of the video, with dynamic volume adjustments to highlight key moments of the celebration. The video concludes with a professional logo animation for the photographer.",
-        "badge": "16:9"
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/-eU7K6_Pvgc/maxresdefault.jpg"
       },
       {
         "type": "youtube",
@@ -2419,7 +2458,8 @@
         "craft": "The edit excels in rhythmic cutting, perfectly syncing visual transitions with the beat of the music. It employs effective speed ramping to emphasize key emotional moments, followed by high-energy, fast-paced cuts during the dance sequences to maintain viewer retention. J-cuts are used to bridge audio transitions between the romantic and upbeat segments.",
         "color": "The color grading features a clean, professional look with natural skin-tone isolation. The romantic segments use a warm, soft aesthetic, while the reception scenes are enhanced with vibrant, high-contrast color correction to make the lighting and festive colors pop. Subtle film print emulation adds a premium, cinematic texture to the final output.",
         "sound": "The audio mix is well-balanced, ensuring the music remains the driving force while maintaining clarity in the ambient wedding sounds. Motion graphics are used sparingly but effectively, with elegant, clean typography for the couple's names and subtle, professional logo animations at the beginning and end of the reel.",
-        "badge": "9:16"
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/gpAgSAbpLrU/maxresdefault.jpg"
       },
       {
         "type": "youtube",
@@ -2430,7 +2470,8 @@
         "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
         "color": "Custom film grade and precise skin-tone color balance.",
         "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "9:16"
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/Db9w1ryVrwI/maxresdefault.jpg"
       },
       {
         "type": "youtube",
@@ -2441,7 +2482,8 @@
         "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
         "color": "Custom film grade and precise skin-tone color balance.",
         "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/kaWFvpXTxmk/maxresdefault.jpg"
       },
       {
         "type": "youtube",
@@ -2452,7 +2494,8 @@
         "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
         "color": "Custom film grade and precise skin-tone color balance.",
         "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/f4kGchI_D0Y/maxresdefault.jpg"
       },
       {
         "type": "youtube",
@@ -2463,7 +2506,8 @@
         "craft": "The edit utilizes high-energy rhythmic cuts that align perfectly with the music's beat. It features smooth speed ramping during transition sequences and quick, punchy cuts between setup shots and final captured moments to maintain high viewer retention.",
         "color": "The color grade emphasizes clean, natural skin tones while boosting the saturation of the venue's ambient lighting. A subtle warm glow is applied to highlights to create a romantic, high-end wedding aesthetic, consistent with professional film-look standards.",
         "sound": "The audio mix balances a high-tempo backing track with crisp, isolated foley effects like camera shutters and equipment clicks. The sound design adds a layer of professional polish, making the behind-the-scenes process feel immersive and engaging.",
-        "badge": "9:16"
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/CRAhNfUdUuo/maxresdefault.jpg"
       },
       {
         "type": "youtube",
@@ -2476,6 +2520,42 @@
         "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
         "badge": "9:16",
         "thumb": "https://i.ytimg.com/vi/o3j3sJAGjFY/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "37xOBvgo1mA",
+        "title": "Cinematic Wedding Highlight Reel | Elegant Color Grading & Romantic Pacing",
+        "sub": "Romantic Wedding Highlights · Elegant Color · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "Emotion-led pacing, rhythmic montage cuts, and golden light timing.",
+        "color": "Warm romantic skin tones, gentle filmic halation, and soft contrast.",
+        "sound": "Layered vows, soft acoustic piano, and emotional music swell.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/37xOBvgo1mA/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "opcFzV-Qcn0",
+        "title": "Cinematic Wedding Highlights | Emotional Storytelling & Premium Color Grading",
+        "sub": "Celebration Storytelling · Soft Natural Grading · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "Dynamic celebrations, bride and groom entrance timing, and emotive pacing.",
+        "color": "Lush reception palette, sparkling highlights, and pristine skin tones.",
+        "sound": "Celebration ambience, acoustic warmth, and crystal-clear audio master.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/opcFzV-Qcn0/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "PVIueUP-Mz4",
+        "title": "Cinematic Wedding Highlight Film | Soft Natural Grading & Rhythmic Storytelling",
+        "sub": "Ceremony & Reception · Natural Storytelling · 16:9 Film",
+        "o": "h",
+        "craft": "Narrative wedding pacing, slow-motion emotional arcs, and multi-angle montage.",
+        "color": "Soft natural film curve, creamy highlights, and accurate dress white balance.",
+        "sound": "Heartfelt vows recording, atmospheric room tone, and subtle cinematic score.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/PVIueUP-Mz4/maxresdefault.jpg"
       }
     ],
     "lines": [
@@ -2483,7 +2563,7 @@
       "bridal & groom portrait cinematography",
       "with soft natural skin-tone grading."
     ],
-    "count": 7,
+    "count": 10,
     "reelCover": "assets/images/categories/cinematic-weddings.jpg",
     "longCover": "assets/images/categories/cinematic-weddings.jpg"
   },
@@ -2640,7 +2720,8 @@
         "craft": "The editing follows a steady, observational pace suitable for corporate progress reports. It utilizes smooth, linear transitions between wide aerial shots and specific interior details, ensuring the viewer maintains a clear spatial understanding of the site. The pacing is deliberate, allowing the audience to absorb the scale of the development.",
         "color": "The color grade is naturalistic and bright, emphasizing the desert environment with warm, sun-drenched tones. The whites of the mosque architecture are crisp and clean, while the shadows are lifted to reveal detail in the parking structures. The overall palette is consistent, maintaining a professional, high-end look.",
         "sound": "The audio features a clean, professional instrumental track that provides a sense of scale and importance. The motion graphics are simple and effective, using clear, legible Arabic typography for the title cards that align with the branding of the development authority.",
-        "badge": "16:9"
+        "badge": "16:9",
+        "thumb": "assets/images/categories/real-estate-horizontal.jpg"
       },
       {
         "type": "youtube",
@@ -2673,7 +2754,8 @@
         "craft": "Rhythmic cutting, speed ramping, and seamless transition timing.",
         "color": "Custom film grade and precise skin-tone color balance.",
         "sound": "Clean audio mastering and dynamic motion graphics.",
-        "badge": "16:9"
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/BSA_9M279iI/maxresdefault.jpg"
       },
       {
         "type": "youtube",
@@ -2861,6 +2943,18 @@
         "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
         "badge": "9:16",
         "thumb": "https://i.ytimg.com/vi/z_SuL64y3-Y/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "DDtEkbIbWLM",
+        "title": "Luxury Dubai Real Estate Promo | Cinematic Pacing & High-End Color Grading",
+        "sub": "Luxury Dubai Property · High-End Commercial · 16:9 Film",
+        "o": "h",
+        "craft": "Ultra-smooth architectural tracking, skyline parallax timing, and high-impact pacing.",
+        "color": "Golden hour Dubai skyline warmth, deep glass reflections, and balanced architectural highlights.",
+        "sound": "Sophisticated ambient score, luxury foley sweeps, and pristine audio master.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/DDtEkbIbWLM/maxresdefault.jpg"
       }
     ],
     "lines": [
@@ -2868,13 +2962,13 @@
       "interior lighting & data callouts",
       "for luxury property in Dubai and Egypt."
     ],
-    "count": 21,
+    "count": 22,
     "reelCover": "assets/images/categories/real-estate-architecture.jpg",
-    "longCover": "https://i.ytimg.com/vi/BSA_9M279iI/maxresdefault.jpg"
+    "longCover": "assets/images/categories/real-estate-horizontal.jpg"
   }
 ];
 
-  const SERVICES = [
+const SERVICES = [
   {
     "slug": "short-form-reels",
     "icon": "reel",
