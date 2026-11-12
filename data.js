@@ -246,6 +246,90 @@
         "color": "The color palette is strictly high-contrast, utilizing a clean white and a vibrant, attention-grabbing yellow against a pure black background. This ensures maximum readability and visual impact on mobile screens.",
         "sound": "The audio is centered around a punchy, rhythmic beat that dictates the motion graphics. The motion design is clean and sharp, utilizing scale and opacity keyframes to create a sense of urgency and excitement for the promotional event.",
         "badge": "9:16"
+      },
+      {
+        "type": "youtube",
+        "id": "P8KW0uH3wW8",
+        "title": "aDawliah Brand Commercial | Rhythmic Product Editing & Color Grading",
+        "sub": "aDawliah Audio & Tech · Commercial Brand Film · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/P8KW0uH3wW8/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "B0JN3v1urQM",
+        "title": "Procom Middle East Brand Promo | High-Energy Commercial Edit & Color",
+        "sub": "Procom Middle East · Stage Lighting & Sound Tech Commercial · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/B0JN3v1urQM/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "Al8vrTPIO6k",
+        "title": "ROBE Middle East Lighting Commercial | Dynamic Stage Show Showcase",
+        "sub": "ROBE Lighting ME · High-Energy Commercial Edit · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/Al8vrTPIO6k/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "FQbU18yB9tw",
+        "title": "Halwani Audio Visual Brand Film | High-Energy Motion Graphics & Color",
+        "sub": "Halwani Audio Visual · Corporate Brand Showcase · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/FQbU18yB9tw/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "w-z3-Q3RE-Q",
+        "title": "Professional Cleaning Service Promo | Clean Commercial Cuts & Color",
+        "sub": "Commercial Service Ad · Fast-Paced Rhythmic Cuts · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/w-z3-Q3RE-Q/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "1aLTuHPkETs",
+        "title": "Delta Waves Brand Promo | High-Energy Commercial Pacing & Color Grade",
+        "sub": "Delta Waves · Marine & Lifestyle Commercial · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/1aLTuHPkETs/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "uU1dNKgjfKM",
+        "title": "Luxury Brand Showcase — Sonos at SLS Hotel | Cinematic Commercial",
+        "sub": "Sonos Brand Showcase · Luxury Hospitality Cinematography · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/uU1dNKgjfKM/maxresdefault.jpg"
       }
     ],
     "lines": [
@@ -253,7 +337,7 @@
       "speed ramps & appetite grading",
       "built for retention across 16:9 & 9:16."
     ],
-    "count": 16,
+    "count": 23,
     "reelCover": "assets/images/categories/commercial-brand-ads-reels.jpg",
     "longCover": "assets/images/categories/commercial-brand-ads.jpg"
   },
@@ -727,6 +811,66 @@
         "color": "The color grade features a clean, professional look with natural skin tones. The background purple LED lighting provides a vibrant contrast, while the overall image maintains a balanced exposure and sharp clarity, typical of a studio-lit environment.",
         "sound": "The audio is clear with consistent vocal levels across different speakers. The sound design includes subtle, well-timed comedic sound effects that enhance the blooper reel format. The final logo animation is clean and serves as a professional brand sign-off.",
         "badge": "9:16"
+      },
+      {
+        "type": "youtube",
+        "id": "BVSr_VssEHA",
+        "title": "Marketing Psychology & Consumer Behavior | Investment Strategy Reel",
+        "sub": "Marketing Psychology Series · Engaging Pacing & Crisp Audio · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/BVSr_VssEHA/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "9fYM6K6VWnQ",
+        "title": "Business Setup Promo Reel | Dynamic Motion Graphics & Kinetic Typography",
+        "sub": "Corporate Advisory Reel · Animated Overlays & Clean Pacing · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/9fYM6K6VWnQ/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "c0IJuoNjy54",
+        "title": "Schengen Visa Advisor Reel | Polished Talking Head with Motion Graphics",
+        "sub": "Immigration & Travel Advisory · Kinetic Callouts & Studio Cut · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/c0IJuoNjy54/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "P30yWnbem08",
+        "title": "Marketing Psychology & Consumer Behavior | Agency Strategy Reel",
+        "sub": "Marketing Strategy Series · Clean Cuts & Studio Color Grade · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/P30yWnbem08/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "aE8HZb_V_4U",
+        "title": "Agency Promo & Talking Head Reel | Kinetic Motion Graphics & Sound Design",
+        "sub": "Creative Agency Promo · Dynamic Visual Hook & Sound Effects · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/aE8HZb_V_4U/maxresdefault.jpg"
       }
     ],
     "lines": [
@@ -734,7 +878,7 @@
       "kinetic Arabic type & clean cuts",
       "turning dry topics into viral content."
     ],
-    "count": 32,
+    "count": 37,
     "reelCover": "assets/images/categories/talking-head-marketing.jpg",
     "longCover": "assets/images/categories/talking-head-marketing.jpg"
   },
@@ -826,6 +970,114 @@
         "sound": "The sound design is highly immersive, featuring layered ambient foley such as rustling leaves and soft wind, which are balanced perfectly against the musical score. The audio mix prioritizes clarity and emotional resonance, with smooth volume automation to transition between scenes.",
         "badge": "9:16",
         "thumb": "https://i.ytimg.com/vi/PVIueUP-Mz4/hq2.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "DV8vsA-IS5w",
+        "title": "Luxury Skincare Beauty Reel | Precision Skin Retouching & Cinematic Grade",
+        "sub": "Skincare & Beauty Commercial · Clean Clinical Lighting · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/DV8vsA-IS5w/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "p9m3SRwFpPw",
+        "title": "Medical Health Explainer | Kinetic Typography & 3D Anatomy Integration",
+        "sub": "Medical Education Reel · 3D Visual Overlays & Voiceover · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/p9m3SRwFpPw/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "UEY8KCVLGeI",
+        "title": "Aesthetic Clinic Testimonial | Clean Split-Screen & Natural Color Grade",
+        "sub": "Clinical Aesthetic Review · Split-Screen Testimonial · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/UEY8KCVLGeI/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "bm-YxtJPrgw",
+        "title": "Aesthetic Clinic Testimonial | Before-After Wipes & Natural Color Grading",
+        "sub": "Aesthetic Treatment Reel · Split-Screen Comparison · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/bm-YxtJPrgw/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "ZeUlInJfg4g",
+        "title": "Aesthetic Filler Treatment Reel | Clinical Facial Contour & Color Grade",
+        "sub": "Facial Aesthetics Reel · Macro Procedure & Skin Tone Care · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/ZeUlInJfg4g/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "yCH381FbRgg",
+        "title": "Aesthetic Clinic Client Story | Clinical Skin Tone Balancing & Clean Edit",
+        "sub": "Patient Journey Reel · Natural Skin Calibration · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/yCH381FbRgg/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "sIGbV5qX7K4",
+        "title": "Medical Aesthetic Testimonial | Clean Split-Screen & Clinical Color Grade",
+        "sub": "Aesthetic Clinic Review · True-to-Life Skin Tones · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/sIGbV5qX7K4/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "Tv78XY2Y8Vw",
+        "title": "Aesthetic Clinic Promo | Clinical Skin Tone Color Grading & Clean Cuts",
+        "sub": "Aesthetic Clinic Feature · Professional Lighting & Grade · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/Tv78XY2Y8Vw/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "fmhOHZNNDzQ",
+        "title": "Luxury Beauty Salon & Hair Styling Experience | Rhythmic Cuts & Grade",
+        "sub": "Beauty Salon Commercial · Styling Reveal & Warm Aesthetic · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/fmhOHZNNDzQ/maxresdefault.jpg"
       }
     ],
     "lines": [
@@ -833,7 +1085,7 @@
       "split-screen aesthetic testimonials",
       "and luxury beauty salon commercials."
     ],
-    "count": 7,
+    "count": 16,
     "reelCover": "assets/images/categories/medical-aesthetics.jpg",
     "longCover": "assets/images/categories/medical-aesthetics.jpg"
   },
@@ -891,6 +1143,42 @@
         "sound": "The sound design is built around a high-tempo electronic track, with precise audio-to-video synchronization. The mix ensures the music drives the energy, while the overall production quality maintains a clean, professional aesthetic with minimal but effective motion graphics for the logo reveal.",
         "badge": "9:16",
         "thumb": "https://i.ytimg.com/vi/hHZNMe1rKKs/hq1.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "hSeuZ57GwXU",
+        "title": "High-Intensity Workout Promo | Kinetic Typography & Dynamic Speed Ramps",
+        "sub": "Gym Campaign Film · Aggressive Rhythmic Cuts & Subtitles · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/hSeuZ57GwXU/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "NgJtwFVolEo",
+        "title": "High-Intensity Fitness Promo | Aggressive Speed Ramping & Bass-Heavy SFX",
+        "sub": "Fitness Motivation Reel · Gym Workout & Punchy Sound Design · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/NgJtwFVolEo/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "_93VsNeI8Rs",
+        "title": "Athletic Training & Championship Commercial | High-Octane Motion Pacing",
+        "sub": "Athletic Brand Film · Speed Ramping & Moody Lighting · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/_93VsNeI8Rs/maxresdefault.jpg"
       }
     ],
     "lines": [
@@ -898,7 +1186,7 @@
       "aggressive speed ramping & heavy foley",
       "crafted for maximum viewer adrenaline."
     ],
-    "count": 4,
+    "count": 7,
     "reelCover": "assets/images/categories/fitness-gym.jpg",
     "longCover": "assets/images/categories/fitness-gym.jpg"
   },
@@ -1504,6 +1792,54 @@
         "sound": "The sound design is a standout feature, utilizing layered foley effects like sizzling and knife-on-board sounds that are EQ-boosted for clarity. The music is tightly synced with the visual transitions, creating a cohesive sensory experience.",
         "badge": "9:16",
         "thumb": "https://i.ytimg.com/vi/GhGiZ1L2cIE/hq1.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "RpuklLtwDNA",
+        "title": "High-Energy Culinary Commercial | Macro Food Cinematography & SFX",
+        "sub": "Culinary Commercial Spot · Sizzling Sound Design & Food Grade · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/RpuklLtwDNA/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "JJEMwmlNLok",
+        "title": "Gourmet Dish Presentation Reel | Dynamic Macro Cuts & Rich Color Grade",
+        "sub": "Culinary Presentation Reel · Macro Plating & Rhythmic Cuts · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/JJEMwmlNLok/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "T0MYLGiFsIE",
+        "title": "Shrimparty — Seafood Boil Feast Reel | Appetizing Food Cinematography",
+        "sub": "Shrimparty Campaign · Seafood Boil & Vibrant Color Grade · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/T0MYLGiFsIE/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "0epBirYrE0Y",
+        "title": "Restaurant Hospitality & Dining Highlights | Dynamic Food Montage",
+        "sub": "Hospitality Dining Reel · Rhythmic Kitchen Cuts & Warm Grade · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/0epBirYrE0Y/maxresdefault.jpg"
       }
     ],
     "lines": [
@@ -1511,7 +1847,7 @@
       "sizzling ASMR sound & speed ramps",
       "with rich color that makes viewers crave."
     ],
-    "count": 52,
+    "count": 56,
     "reelCover": "assets/images/categories/food-hospitality.jpg",
     "longCover": "assets/images/categories/food-hospitality.jpg"
   },
@@ -1615,6 +1951,42 @@
         "sound": "Sound design is a highlight, featuring layered foley of engine ignitions and tire friction. The audio mix is balanced to ensure the music provides the driving energy while the mechanical SFX provide the visceral impact. No text overlays are used, keeping the focus on the visuals.",
         "badge": "9:16",
         "thumb": "https://i.ytimg.com/vi/bBKgCuE0Rz0/hq1.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "TzyNatfGDdY",
+        "title": "Luxury Automotive Commercial | High-Octane Speed Ramps & Color Grade",
+        "sub": "Luxury Supercar Reel · Aggressive Speed Ramping & Foley · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/TzyNatfGDdY/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "RWAF51V67ZQ",
+        "title": "Luxury Automotive Cinematic Reel | High-Speed Transitions & Moody Grade",
+        "sub": "Automotive Cinematic Reel · Dark Showroom Grade & Bass Sync · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/RWAF51V67ZQ/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "oIk2IKtxkoU",
+        "title": "Mobile Car Detailing Promo Reel | High-Energy Cuts & Glossy Finish Grade",
+        "sub": "Automotive Detailing Reel · Glossy Paint Finish & Ramping · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/oIk2IKtxkoU/maxresdefault.jpg"
       }
     ],
     "lines": [
@@ -1622,7 +1994,7 @@
       "dark showroom specular color grading",
       "and visceral mechanical sound design."
     ],
-    "count": 8,
+    "count": 11,
     "reelCover": "assets/images/categories/automotive-doc-3d.jpg",
     "longCover": "assets/images/categories/automotive-doc-3d.jpg"
   },
@@ -1690,6 +2062,66 @@
         "color": "The color grading is the focal point, featuring a clean, natural daylight look that shifts into a dramatic, stylized deep blue night grade. The transition is smooth, maintaining consistent skin tones while shifting the ambient environment to a cool, cinematic night aesthetic.",
         "sound": "The audio features a clear, high-fidelity pop track with strong vocal presence. The music is synced perfectly to the visual transition, enhancing the impact of the day-to-night shift.",
         "badge": "16:9"
+      },
+      {
+        "type": "youtube",
+        "id": "R8ZUgY0l1zo",
+        "title": "Historical Documentary Storytelling | Smooth Transitions & Color Grading",
+        "sub": "Historical Narrative Film · Documented History & Warm Grade · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/R8ZUgY0l1zo/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "0sacq5JNCU0",
+        "title": "Cinematic Historical Documentary Edit | Dynamic Narrative Pacing & Grade",
+        "sub": "Historical Documentary · Archival Pacing & Film Print Grade · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/0sacq5JNCU0/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "DiKWeWKRjUU",
+        "title": "Educational Brand Film — Campus Life | Storytelling & Natural Color",
+        "sub": "Academic Campus Documentary · Clean Storytelling · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/DiKWeWKRjUU/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "bua-Y3Kzvnc",
+        "title": "Educational Brand Film — Student Growth | Rhythmic Pacing & Grade",
+        "sub": "Institutional Documentary · Student Journey & Color Grade · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/bua-Y3Kzvnc/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "SLGyl3eNHzc",
+        "title": "Educational STEM & F1 Brand Film | Motion Graphics & Clean Interview Cuts",
+        "sub": "STEM Racing Educational Film · 3D Motion Graphics & Cuts · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/SLGyl3eNHzc/maxresdefault.jpg"
       }
     ],
     "lines": [
@@ -1697,7 +2129,7 @@
       "photorealistic 3D CGI product motion",
       "and atmospheric narrative color grading."
     ],
-    "count": 5,
+    "count": 10,
     "reelCover": "assets/images/categories/documentary-3d.jpg",
     "longCover": "assets/images/categories/documentary-3d.jpg"
   },
@@ -1851,6 +2283,102 @@
         "sound": "The audio mix prioritizes the upbeat music track, which serves as the backbone of the edit. The motion graphics are limited to the professional logo animation at the start and end, which features a clean, modern aesthetic with subtle light flares and chromatic aberration effects.",
         "badge": "9:16",
         "thumb": "https://i.ytimg.com/vi/eA_vnfaFwzg/hq3.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "PfKGYVoVqo8",
+        "title": "Unilumin SLS Expo Event Recap | High-Impact Corporate Editing & Grade",
+        "sub": "SLS Expo · Unilumin LED Screen Showcase & Summit Coverage · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/PfKGYVoVqo8/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "Al9pSzrK-Lk",
+        "title": "Corporate Brand Storytelling Film | Executive Narrative & Color Grade",
+        "sub": "Corporate Identity Film · Clean Dialogue & Natural Tone · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/Al9pSzrK-Lk/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "qGPCIZL5RL4",
+        "title": "Inspirational Brand Storytelling | Clean Cuts & Cinematic Color Grading",
+        "sub": "Institutional Brand Film · Narrative Pacing & Grade · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/qGPCIZL5RL4/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "7I4Wd7aAagg",
+        "title": "Corporate Event Highlight Reel | Clean Cuts & Professional Color Grading",
+        "sub": "Executive Summit Recap · Clean Cuts & Brand Grade · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/7I4Wd7aAagg/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "5HqStCo5AVU",
+        "title": "Corporate Expo & Summit Event Recap | Clean Pacing & Color Correction",
+        "sub": "Corporate Exhibition Film · Multi-Cam Highlights & Grade · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/5HqStCo5AVU/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "CHD5wumhh8U",
+        "title": "High-Energy Event Highlight Reel | Rhythmic Cutting & Vibrant Color",
+        "sub": "Event Highlight Reel · Beat-Synced Social Cut · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/CHD5wumhh8U/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "_O2Sll6_LyQ",
+        "title": "Executive Corporate Storytelling | Summit Highlights & Keynote Edit",
+        "sub": "Corporate Gala & Summit · Multi-Cam Coverage · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/_O2Sll6_LyQ/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "m84RS8ZJTSI",
+        "title": "Corporate Event Recap | Clean Multi-Cam Cuts & Broadcast Audio Mastering",
+        "sub": "Corporate Forum Coverage · Balanced Event Audio & Natural Grade · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/m84RS8ZJTSI/maxresdefault.jpg"
       }
     ],
     "lines": [
@@ -1858,7 +2386,7 @@
       "expo recaps & executive summit films",
       "with node templates & broadcast sound."
     ],
-    "count": 12,
+    "count": 20,
     "reelCover": "assets/images/categories/corporate-conferences.jpg",
     "longCover": "assets/images/categories/corporate-conferences.jpg"
   },
@@ -1936,6 +2464,18 @@
         "color": "The color grade emphasizes clean, natural skin tones while boosting the saturation of the venue's ambient lighting. A subtle warm glow is applied to highlights to create a romantic, high-end wedding aesthetic, consistent with professional film-look standards.",
         "sound": "The audio mix balances a high-tempo backing track with crisp, isolated foley effects like camera shutters and equipment clicks. The sound design adds a layer of professional polish, making the behind-the-scenes process feel immersive and engaging.",
         "badge": "9:16"
+      },
+      {
+        "type": "youtube",
+        "id": "o3j3sJAGjFY",
+        "title": "Cinematic Wedding Highlights | Emotional Storytelling & Natural Color",
+        "sub": "Wedding Highlight Film · Romantic Moments & Soft Golden Grade · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/o3j3sJAGjFY/maxresdefault.jpg"
       }
     ],
     "lines": [
@@ -1943,7 +2483,7 @@
       "bridal & groom portrait cinematography",
       "with soft natural skin-tone grading."
     ],
-    "count": 6,
+    "count": 7,
     "reelCover": "assets/images/categories/cinematic-weddings.jpg",
     "longCover": "assets/images/categories/cinematic-weddings.jpg"
   },
@@ -2237,6 +2777,90 @@
         "sound": "The vocal track is processed with high-clarity EQ and compression for a broadcast-quality sound. Kinetic typography is used effectively to emphasize key points, with subtle motion graphics (icons) appearing to illustrate financial and real estate concepts. Sound design includes crisp, subtle whooshes during transitions.",
         "badge": "9:16",
         "thumb": "https://i.ytimg.com/vi/hAUZAIXaADA/hq1.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "KiQKYvyCOkU",
+        "title": "Dubai Real Estate Advisory — Market Insights & Strategy Reel",
+        "sub": "The 12 Gate · Investment Strategy & Motion Overlays · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/KiQKYvyCOkU/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "sTnbh9H2ARw",
+        "title": "Real Estate Legal Advice Reel | Kinetic Typography & Clean Color Grading",
+        "sub": "Real Estate Legal Counsel · Dynamic Subtitles & Sound Design · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/sTnbh9H2ARw/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "-mzxMd36Eic",
+        "title": "Dubai Real Estate Marketing Reel | Kinetic Typography & Studio Grade",
+        "sub": "The 12 Gate · Dubai Real Estate Advisory & Motion Graphics · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/-mzxMd36Eic/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "LKRn6_JrLbI",
+        "title": "Luxury Real Estate Interview | Clean Corporate Editing & Architectural Grade",
+        "sub": "Architectural Executive Interview · Clean Studio Frame · 16:9 Horizontal Film",
+        "o": "h",
+        "craft": "Rhythmic multi-cam cutting, precise pacing on narrative beats, and seamless transition timing.",
+        "color": "DaVinci Resolve node-based color management, balanced skin tones, and rich contrast curves.",
+        "sound": "Dialogue cleanup, spectral noise suppression, and full multitrack dynamic audio mastering.",
+        "badge": "16:9",
+        "thumb": "https://i.ytimg.com/vi/LKRn6_JrLbI/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "9z8OK57MvP4",
+        "title": "Dubai Real Estate Advisory — Market Saturation & Growth Analysis",
+        "sub": "The 12 Gate · Property Market Insights & Kinetic Subtitles · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/9z8OK57MvP4/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "kncqoJC9aqo",
+        "title": "Real Estate Investment Advice | Dynamic Kinetic Typography & Color Grading",
+        "sub": "Property Advisor Reel · Punchy Captions & Studio Grade · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/kncqoJC9aqo/maxresdefault.jpg"
+      },
+      {
+        "type": "youtube",
+        "id": "z_SuL64y3-Y",
+        "title": "Real Estate Investment Promo | Kinetic Typography & Clean Color Grading",
+        "sub": "Property Investment Reel · Dynamic Animated Callouts · 9:16 Vertical Reel",
+        "o": "v",
+        "craft": "High-retention mobile pacing, aggressive speed ramping, and beat-synced visual cuts.",
+        "color": "Custom film grade, isolated natural skin tones, and vibrant mobile-optimized color balance.",
+        "sound": "Punchy foley effects, layered risers, and vocal compression tailored for mobile social feeds.",
+        "badge": "9:16",
+        "thumb": "https://i.ytimg.com/vi/z_SuL64y3-Y/maxresdefault.jpg"
       }
     ],
     "lines": [
@@ -2244,7 +2868,7 @@
       "interior lighting & data callouts",
       "for luxury property in Dubai and Egypt."
     ],
-    "count": 14,
+    "count": 21,
     "reelCover": "assets/images/categories/real-estate-architecture.jpg",
     "longCover": "https://i.ytimg.com/vi/BSA_9M279iI/maxresdefault.jpg"
   }
