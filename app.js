@@ -1164,7 +1164,7 @@
     const targetFormat = type === 'project' ? (initialFormat || globalWorkFormat) : undefined;
     viewerBody.innerHTML = type === 'project' ? projectView(item, targetFormat) : serviceView(item);
     viewerBody.scrollTop = 0;
-    document.title = `${item.title} — ARZ Portfolio`;
+    // document.title kept static as requested by user
     updateProjectNav(type, slug, activeProjectFormat);
 
     if (mode !== 'none') {
