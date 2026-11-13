@@ -50,7 +50,7 @@
   <!-- LCP image -->
   <link rel="preload" as="image" href="assets/images/PORTIFOLIO_960.jpg?v=20261110V" fetchpriority="high">
 
-  <link rel="stylesheet" href="styles.css?v=20261113G">
+  <link rel="stylesheet" href="styles.css?v=20261113H">
 
   <!-- Structured data -->
   <script type="application/ld+json">
@@ -71,9 +71,9 @@
   }
   </script>
 
-  <script src="data.js?v=20261113G" defer></script>
-  <script src="thumbs.js?v=20261113G" defer></script>
-  <script src="app.js?v=20261113G" defer></script>
+  <script src="data.js?v=20261113H" defer></script>
+  <script src="thumbs.js?v=20261113H" defer></script>
+  <script src="app.js?v=20261113H" defer></script>
 </head>
 <body>
 
@@ -270,8 +270,8 @@
               <small>Medina, KSA</small>
             </li>
             <li>
-              <span class="client-logo is-pixora"><img src="assets/images/clients/pixora.png?v=hq4" alt="Pixora Media Production" width="240" height="240" loading="eager"></span>
-              <strong>Pixora Media</strong>
+              <span class="client-logo is-pixora"><img src="assets/images/clients/pixora.png?v=hq4" alt="Pixomia Production" width="240" height="240" loading="eager"></span>
+              <strong>Pixomia</strong>
               <small>Medina, KSA</small>
             </li>
             <li>
@@ -351,9 +351,9 @@
         <ul class="stats" id="proof" aria-label="Key numbers">
           <li class="stat"><b data-count="500" data-suffix="+">500+</b><span>Videos delivered</span></li>
           <li class="stat"><b data-count="950" data-suffix="K+">950K+</b><span>Views on one reel</span></li>
-          <li class="stat"><b data-count="40" data-suffix="+">40+</b><span>VIP &amp; summit assets for Pixora</span></li>
-          <li class="stat"><b data-count="4">4</b><span>Countries — EG · KSA · UAE · CA</span></li>
-          <li class="stat"><b data-count="2023" data-from="2000">2023</b><span>Professional post-production since</span></li>
+          <li class="stat"><b data-count="40" data-suffix="+">40+</b><span>VIP &amp; summit assets for Pixomia</span></li>
+          <li class="stat"><b data-count="4" data-from="4">4</b><span>Countries — EG · KSA · UAE · CA</span></li>
+          <li class="stat"><b data-count="2023" data-from="2020">2023</b><span>Professional post-production since</span></li>
         </ul>
 
         <div class="gain-grid">
@@ -379,14 +379,14 @@
               <span>consistent visual branding so</span>
               <span>your content always feels luxury.</span>
             </p>
-            <p class="gain-proof"><b>DWG</b> colour-managed grading</p>
+            <p class="gain-proof"><b>DWG</b> color-managed grading</p>
           </article>
           <article class="gain-card reveal">
             <span class="gain-num">03</span>
             <svg class="gain-icon"><use href="#i-clock"/></svg>
             <h3>Deadlines you<br>can plan around</h3>
             <p class="stair-text">
-              <span>Standardised pipelines,</span>
+              <span>Standardized pipelines,</span>
               <span>clear revision rounds and</span>
               <span>fast replies on WhatsApp so</span>
               <span>launch dates stay launch dates.</span>
@@ -398,7 +398,7 @@
             <svg class="gain-icon"><use href="#i-layers"/></svg>
             <h3>One person,<br>full post-production</h3>
             <p class="stair-text">
-              <span>Edit, colour, motion,</span>
+              <span>Edit, color, motion,</span>
               <span>sound &amp; AI in one place —</span>
               <span>fewer hand-offs, zero delays,</span>
               <span>one person accountable for all.</span>
@@ -415,15 +415,20 @@
                 <b>5.0</b>
                 <span class="stars" aria-label="5 out of 5 stars"><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg></span>
               </div>
-              <div>
+              <div class="review-meta-wrap">
                 <h3 id="reviewTitle">Verified client review</h3>
                 <p class="muted small">Mostaql · Video editing project · Nov 2025</p>
               </div>
+              <div class="review-lang-switch" role="group" aria-label="Review language">
+                <button type="button" class="review-lang-btn is-active" data-review-lang="ar" aria-pressed="true">عربي</button>
+                <span class="review-lang-sep" aria-hidden="true">/</span>
+                <button type="button" class="review-lang-btn" data-review-lang="en" aria-pressed="false">EN</button>
+              </div>
             </div>
 
-            <blockquote class="review-quote">
-              <p lang="ar" dir="rtl">«احترافية في التعامل وحرص على إتمام كل التعديلات<br>بشكل سلس ومرن، شكراً عبد الرازق ومشاريع قادمة بإذن الله بيننا.»</p>
-              <p class="review-en stair-text">
+            <blockquote class="review-quote" data-active-lang="ar">
+              <p class="review-ar" lang="ar" dir="rtl">«احترافية في التعامل وحرص على إتمام كل التعديلات<br>بشكل سلس ومرن، شكراً عبد الرازق ومشاريع قادمة بإذن الله بيننا.»</p>
+              <p class="review-en stair-text" hidden>
                 <span>“Professional to work with and committed</span>
                 <span>to completing every revision smoothly and flexibly.</span>
                 <span>Thank you Abdelrazek — more projects together, God willing.”</span>
@@ -472,7 +477,7 @@
             <article class="result-card reveal">
               <p class="result-num">−25%</p>
               <p class="stair-text">
-                <span><b>Pixora Media, Medina</b></span>
+                <span><b>Pixomia, Medina</b></span>
                 <span>Client turnaround cut</span>
                 <span>via custom node templates.</span>
               </p>
@@ -502,7 +507,7 @@
             </li>
             <li class="skill" data-i="2" data-icon="palette" data-sub="Color Correction, Color Grading &amp; Style">
               <span class="skill-ico"><svg><use href="#i-palette"/></svg></span>
-              <div><h3>Colour Grading</h3><p>Node-based DaVinci grades, DWG &amp; skin-tone calibration</p></div>
+              <div><h3>Color Grading</h3><p>Node-based DaVinci grades, DWG &amp; skin-tone calibration</p></div>
             </li>
             <li class="skill" data-i="3" data-icon="motion" data-sub="Kinetic Typography, Rotoscoping &amp; Keying">
               <span class="skill-ico"><svg><use href="#i-motion"/></svg></span>
@@ -588,7 +593,7 @@
         <header class="section-head">
           <p class="kicker">03 — Selected work</p>
           <h2 id="workTitle">Projects that<br><span class="muted">moved real audiences.</span></h2>
-          <p class="section-sub">Switch between Vertical Reels and Horizontal Films,<br>then open any category to watch its videos.</p>
+          <p class="section-sub">500+ delivered videos · 206 curated highlights shown below.<br>Switch between Vertical Reels and Horizontal Films, then open any category.</p>
         </header>
         <div class="work-format-switch" id="workFormatSwitch" role="tablist" aria-label="Filter portfolio by video format"></div>
         <div class="project-grid" id="projectGrid">

@@ -2613,3 +2613,43 @@ html[data-theme="light"] .vcard-media::after {
     linear-gradient(180deg, rgba(255, 252, 248, 0.04) 0%, transparent 32%, rgba(24, 18, 11, 0.24) 100%),
     linear-gradient(135deg, rgba(255, 255, 255, 0.18) 0%, transparent 44%);
 }
+
+/* Borderless AR/EN Language Toggle inside Verified Client Review Card */
+.review-top {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.review-meta-wrap {
+  flex: 1;
+  min-width: 0;
+}
+.review-lang-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: auto;
+  flex-shrink: 0;
+}
+.review-lang-btn {
+  background: transparent;
+  border: none;
+  padding: 2px 4px;
+  font: 600 .82rem/1.2 var(--font-sans, inherit);
+  color: var(--muted);
+  cursor: pointer;
+  transition: color .2s ease, opacity .2s ease;
+}
+.review-lang-btn:hover {
+  color: var(--text);
+}
+.review-lang-btn.is-active {
+  color: var(--orange);
+  font-weight: 700;
+}
+.review-lang-sep {
+  color: var(--muted);
+  opacity: .45;
+  font-size: .78rem;
+  user-select: none;
+}

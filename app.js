@@ -353,6 +353,33 @@
   const observeReveals = (root = document) => $$('.reveal:not(.is-in)', root).forEach((el) => revealer.observe(el));
   observeReveals();
 
+
+  // Review card AR/EN borderless language toggle
+  $$('.review-lang-btn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const card = btn.closest('.review-card');
+      if (!card) return;
+      const lang = btn.dataset.reviewLang;
+      const quote = card.querySelector('.review-quote');
+      const arEl = card.querySelector('.review-ar');
+      const enEl = card.querySelector('.review-en');
+      if (!quote || !arEl || !enEl) return;
+      quote.setAttribute('data-active-lang', lang);
+      if (lang === 'en') {
+        arEl.hidden = true;
+        enEl.hidden = false;
+      } else {
+        arEl.hidden = false;
+        enEl.hidden = true;
+      }
+      card.querySelectorAll('.review-lang-btn').forEach((b) => {
+        const active = b.dataset.reviewLang === lang;
+        b.classList.toggle('is-active', active);
+        b.setAttribute('aria-pressed', active ? 'true' : 'false');
+      });
+    });
+  });
+
   const counterObs = new IntersectionObserver((entries, obs) => {
     entries.forEach((entry) => {
       if (!entry.isIntersecting) return;
@@ -403,7 +430,7 @@
   /*
    * ─── CRAFT VIDEOS (downloaded local MP4s with tailored aspect ratios) ─
    *   0  Editing & Pacing      → 16:9 widescreen (STENG Fashion)
-   *   1  Colour Grading        → 9:16 vertical reel (ALEX Before/After)
+   *   1  Color Grading        → 9:16 vertical reel (ALEX Before/After)
    *   2  Motion & 3D           → 16:9 widescreen (3D Earth Orbit)
    *   3  Sound Design          → 16:9 widescreen (Tamer Hosny Concert)
    *   4  Generative AI         → 4:5 portrait (AI Cinema Showcase)
@@ -429,9 +456,9 @@
     },
     {
       mode: 'single',
-      src: 'assets/videos/skills/craft_1_color.mp4?v=20261110W',
-      poster: 'assets/videos/skills/craft_1_color.jpg?v=20261110W',
-      label: 'Colour Grading',
+      src: 'assets/videos/skills/craft_1_color.mp4?v=20261113H',
+      poster: 'assets/videos/skills/craft_1_color.jpg?v=20261113H',
+      label: 'Color Grading',
       caption: 'DaVinci Resolve — Log to Film Look Grade Pass',
       ar: '16/9'
     },
@@ -743,7 +770,7 @@
     if (customCover) {
       const isExternal = /^https?:\/\//i.test(customCover);
       return {
-        thumb: isExternal ? customCover : `${customCover}?v=20261113G`,
+        thumb: isExternal ? customCover : `${customCover}?v=20261113H`,
         fallbackThumb: firstThumb
       };
     }
@@ -760,9 +787,9 @@
     sw.innerHTML = `
       <button type="button" role="tab" class="work-fmt-card${globalWorkFormat === 'reels' ? ' is-active' : ''}" data-work-format="reels" aria-selected="${globalWorkFormat === 'reels' ? 'true' : 'false'}">
         <div class="wfc-collage wfc-collage-reels" aria-hidden="true">
-          <span class="wfc-c-item"><img src="assets/images/categories/wfc-reel-1.jpg?v=20261113G" alt="" loading="lazy" decoding="async"></span>
-          <span class="wfc-c-item"><img src="assets/images/categories/wfc-reel-2.jpg?v=20261113G" alt="" loading="lazy" decoding="async"></span>
-          <span class="wfc-c-item"><img src="assets/images/categories/wfc-reel-3.jpg?v=20261113G" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/images/categories/wfc-reel-1.jpg?v=20261113H" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/images/categories/wfc-reel-2.jpg?v=20261113H" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/images/categories/wfc-reel-3.jpg?v=20261113H" alt="" loading="lazy" decoding="async"></span>
         </div>
         <div class="wfc-body">
           <span class="wfc-kicker">9:16 Vertical · ${reelCats} Categories · ${reelTotal} Reels</span>
@@ -772,9 +799,9 @@
       </button>
       <button type="button" role="tab" class="work-fmt-card${globalWorkFormat === 'long' ? ' is-active' : ''}" data-work-format="long" aria-selected="${globalWorkFormat === 'long' ? 'true' : 'false'}">
         <div class="wfc-collage wfc-collage-long" aria-hidden="true">
-          <span class="wfc-c-item"><img src="assets/images/categories/commercial-brand-films-retail.jpg?v=20261113G" alt="" loading="lazy" decoding="async"></span>
-          <span class="wfc-c-item"><img src="assets/images/categories/cinematic-weddings-royal.jpg?v=20261113G" alt="" loading="lazy" decoding="async"></span>
-          <span class="wfc-c-item"><img src="assets/images/categories/official-summits-conferences.jpg?v=20261113G" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/images/categories/commercial-brand-films-retail.jpg?v=20261113H" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/images/categories/cinematic-weddings-royal.jpg?v=20261113H" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/images/categories/official-summits-conferences.jpg?v=20261113H" alt="" loading="lazy" decoding="async"></span>
         </div>
         <div class="wfc-body">
           <span class="wfc-kicker">16:9 Cinema · ${longCats} Categories · ${longTotal} Films</span>
