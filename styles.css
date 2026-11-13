@@ -2279,36 +2279,7 @@ html[data-theme="light"] .viewer-nav:hover {
   .site-header:has(.nav-links.is-open) { background: rgba(17, 14, 10, .97); }
 
   .hero-grid { grid-template-columns: 1fr; gap: 28px; }
-  .hero-copy {
-    display: flex;
-    flex-direction: column;
-    min-width: 0;
-    max-width: 100%;
-  }
-  .hero-copy .hero-title {
-    order: 1;
-    margin-top: 0;
-  }
-  .hero-copy .hero-scene-mobile {
-    order: 2;
-  }
-  .hero-copy .eyebrow {
-    order: 3;
-    align-self: center;
-    margin: 0 auto 22px;
-  }
-  .hero-copy .hero-lead {
-    order: 4;
-  }
-  .hero-copy .hero-gains {
-    order: 5;
-  }
-  .hero-copy .hero-actions {
-    order: 6;
-  }
-  .hero-copy .social-row {
-    order: 7;
-  }
+  .hero-copy { min-width: 0; max-width: 100%; }
   .hero-title .hl-line-1,
   .hero-title .hl-line-2,
   .hero-title .hl-line-3,
