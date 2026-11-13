@@ -440,48 +440,48 @@
   const SKILL_VIDEOS = [
     {
       mode: 'trio',
-      src: 'assets/videos/skills/craft_4_ai.mp4',
-      poster: 'assets/videos/skills/craft_4_ai.jpg',
+      src: 'assets/videos/skills/craft_4_ai.mp4?v=20261113I',
+      poster: 'assets/videos/skills/craft_4_ai.jpg?v=20261113I',
       label: 'Generative AI',
       caption: 'AI Cinema Showcase — Veo 3 · Google Flow · Higgsfield',
       ar: '9/16'
     },
     {
       mode: 'single',
-      src: 'assets/videos/skills/craft_3_sound.mp4',
-      poster: 'assets/videos/skills/craft_3_sound.jpg',
+      src: 'assets/videos/skills/craft_3_sound.mp4?v=20261113I',
+      poster: 'assets/videos/skills/craft_3_sound.jpg?v=20261113I',
       label: 'Editing & Pacing',
       caption: 'Tamer Hosny — Live Concert Package',
       ar: '16/9'
     },
     {
       mode: 'single',
-      src: 'assets/videos/skills/craft_1_color.mp4?v=20261113H',
-      poster: 'assets/videos/skills/craft_1_color.jpg?v=20261113H',
+      src: 'assets/videos/skills/craft_1_color.mp4?v=20261113I',
+      poster: 'assets/videos/skills/craft_1_color.jpg?v=20261113I',
       label: 'Color Grading',
       caption: 'DaVinci Resolve — Log to Film Look Grade Pass',
       ar: '16/9'
     },
     {
       mode: 'single',
-      src: 'assets/videos/skills/3d.mp4',
-      poster: 'assets/videos/skills/3d.jpg',
+      src: 'assets/videos/skills/3d.mp4?v=20261113I',
+      poster: 'assets/videos/skills/3d.jpg?v=20261113I',
       label: 'Motion & 3D',
       caption: 'Blender 3D Camera Movement & Spatial Render',
       ar: '16/9'
     },
     {
       mode: 'single',
-      src: 'assets/videos/skills/Abdelrazek_SrVideoEditor_Main.mp4',
-      poster: 'assets/videos/skills/craft_0_editing.jpg',
+      src: 'assets/videos/skills/Abdelrazek_SrVideoEditor_Main.mp4?v=20261113I',
+      poster: 'assets/videos/skills/Abdelrazek_SrVideoEditor_Main.jpg?v=20261113I',
       label: 'Sound Design',
       caption: 'Dialogue Restoration & Cinematic Mix — Showreel',
       ar: '16/9'
     },
     {
       mode: 'single',
-      src: 'assets/videos/skills/craft_5_cinematography.mp4',
-      poster: 'assets/videos/skills/craft_5_cinematography.jpg',
+      src: 'assets/videos/skills/craft_5_cinematography.mp4?v=20261113I',
+      poster: 'assets/videos/skills/craft_5_cinematography.jpg?v=20261113I',
       label: 'Cinematography',
       caption: 'Formula 1 — Motorsport Highlight',
       ar: '16/9'
