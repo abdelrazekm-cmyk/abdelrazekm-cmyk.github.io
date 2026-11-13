@@ -446,7 +446,7 @@
     {
       mode: 'single',
       src: 'assets/videos/skills/Abdelrazek_SrVideoEditor_Main.mp4',
-      poster: 'assets/videos/skills/craft_3_sound.jpg',
+      poster: 'assets/videos/skills/craft_0_editing.jpg',
       label: 'Sound Design',
       caption: 'Dialogue Restoration & Cinematic Mix — Showreel',
       ar: '16/9'
@@ -743,7 +743,7 @@
     if (customCover) {
       const isExternal = /^https?:\/\//i.test(customCover);
       return {
-        thumb: isExternal ? customCover : `${customCover}?v=hq4`,
+        thumb: isExternal ? customCover : `${customCover}?v=20261113G`,
         fallbackThumb: firstThumb
       };
     }
@@ -760,9 +760,9 @@
     sw.innerHTML = `
       <button type="button" role="tab" class="work-fmt-card${globalWorkFormat === 'reels' ? ' is-active' : ''}" data-work-format="reels" aria-selected="${globalWorkFormat === 'reels' ? 'true' : 'false'}">
         <div class="wfc-collage wfc-collage-reels" aria-hidden="true">
-          <span class="wfc-c-item"><img src="assets/videos/skills/craft_4_ai_2.jpg?v=hq3" alt="" loading="lazy" decoding="async"></span>
-          <span class="wfc-c-item"><img src="assets/videos/skills/craft_4_ai_3.jpg?v=hq3" alt="" loading="lazy" decoding="async"></span>
-          <span class="wfc-c-item"><img src="assets/videos/skills/craft_4_ai.jpg?v=hq3" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/images/categories/wfc-reel-1.jpg?v=20261113G" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/images/categories/wfc-reel-2.jpg?v=20261113G" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/images/categories/wfc-reel-3.jpg?v=20261113G" alt="" loading="lazy" decoding="async"></span>
         </div>
         <div class="wfc-body">
           <span class="wfc-kicker">9:16 Vertical · ${reelCats} Categories · ${reelTotal} Reels</span>
@@ -772,9 +772,9 @@
       </button>
       <button type="button" role="tab" class="work-fmt-card${globalWorkFormat === 'long' ? ' is-active' : ''}" data-work-format="long" aria-selected="${globalWorkFormat === 'long' ? 'true' : 'false'}">
         <div class="wfc-collage wfc-collage-long" aria-hidden="true">
-          <span class="wfc-c-item"><img src="assets/images/categories/commercial-brand-ads.jpg?v=hq3" alt="" loading="lazy" decoding="async"></span>
-          <span class="wfc-c-item"><img src="assets/images/categories/events-weddings-concerts.jpg?v=hq3" alt="" loading="lazy" decoding="async"></span>
-          <span class="wfc-c-item"><img src="assets/images/categories/corporate-conferences.jpg?v=hq3" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/images/categories/commercial-brand-films-retail.jpg?v=20261113G" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/images/categories/cinematic-weddings-royal.jpg?v=20261113G" alt="" loading="lazy" decoding="async"></span>
+          <span class="wfc-c-item"><img src="assets/images/categories/official-summits-conferences.jpg?v=20261113G" alt="" loading="lazy" decoding="async"></span>
         </div>
         <div class="wfc-body">
           <span class="wfc-kicker">16:9 Cinema · ${longCats} Categories · ${longTotal} Films</span>

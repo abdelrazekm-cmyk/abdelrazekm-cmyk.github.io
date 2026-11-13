@@ -1,0 +1,21 @@
+{
+  "name": "Abdelrazek Mahmoud — Senior Video Editor & Colorist (ARZ Studio)",
+  "short_name": "ARZ Portfolio",
+  "description": "Senior Video Editor, Colorist & Visual Storyteller — Commercials, Cinematic Films, Color Grading & High-Retention Reels.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#110E0A",
+  "theme_color": "#DB9B3E",
+  "icons": [
+    {
+      "src": "assets/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
